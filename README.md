@@ -73,26 +73,50 @@
 </details>
 
 ---
+---
 
-## 📂 Featured Projects  
+## 🚀 Project Showcase  
+
+Here are some of my best projects that highlight my skills in **AI/ML, Full-Stack Development, DSA, and IoT**:  
 
 ### 🤖 [AI Chatbot](https://github.com/OmkarYelsange/AI-Chatbot)  
-- Conversational chatbot powered by **NLP & Machine Learning**  
-- Capable of handling **real-time queries and interactions**  
-- Built using **Python and Flask** with a focus on **intelligent responses**  
+An intelligent **NLP-powered chatbot** built with Python & Flask, capable of handling real-time queries.  
+- 🧠 Uses NLP & ML for conversational responses  
+- ⚡ Flask backend for real-time interactions  
+- 🌐 Extensible knowledge base  
+
+---
 
 ### 💬 [MINI - The Chat App](https://github.com/OmkarYelsange/Mini-Chat-App)  
-- Real-time chat app built with **Node.js, Express.js, Socket.io**  
-- Features: **User authentication, responsive UI, scalable backend**  
+A **real-time chat application** with authentication & responsive UI.  
+- 📡 Built with Node.js, Express.js, Socket.io  
+- 🔐 Firebase authentication  
+- 📱 Responsive & scalable  
+
+---
 
 ### 🏡 [Airbnb Clone (In Progress)](https://github.com/OmkarYelsange/Airbnb-Clone)  
-- Full-stack web app replicating Airbnb’s core features  
-- Tech: **React, Node.js, MongoDB, REST APIs**  
-- Focus on **responsive UI, authentication, and database design**  
+A **full-stack web app** replicating Airbnb’s core features.  
+- 🏠 Property listings & booking  
+- 🔐 User authentication  
+- 📊 MongoDB + REST API backend  
 
-### 📌 AI/ML Internship Projects  
-- **Text Summarization, Speech Recognition, Neural Style Transfer, Generative Text**  
-- Built using **Python, Flask, and modern ML frameworks**  
+---
+
+### 📌 [AI Internship Projects](https://github.com/OmkarYelsange/AI-Internship-Projects)  
+A collection of **AI/ML projects** developed during internship.  
+- 📝 Text Summarization  
+- 🎙 Speech Recognition  
+- 🎨 Neural Style Transfer  
+- ✍ Generative Text  
+
+---
+
+### 🪑 [IoT Smart Chair Kit](https://github.com/OmkarYelsange/IoT-Smart-Chair-Kit)  
+An **IoT-enabled chair kit** that monitors posture, vibrations & sitting time.  
+- ⚙ Built using ESP32, Arduino, Load Cells, Flex Sensors  
+- 📊 Real-time data via Blynk IoT Dashboard  
+- 🚀 Applications in ergonomics, healthcare & automotive  
 
 ---
 
