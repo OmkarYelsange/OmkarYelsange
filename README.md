@@ -103,13 +103,7 @@ An **IoT-enabled chair kit** that monitors posture, vibrations & sitting time.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=radical" height="165"/>
-</p>
 
----
 
 ## 🌱 Current Focus  
 - 🔹 Building **full-stack applications** with modern frameworks  
