@@ -122,10 +122,6 @@ An **IoT-enabled chair kit** that monitors posture, vibrations & sitting time.
   <img src="https://streak-stats.demolab.com?user=OmkarYelsange&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarYelsange&theme=onedark&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ⭐ **“Passionate about merging Robotics, AI, and Software to create impactful solutions.”**
