@@ -1,7 +1,11 @@
 
 
 <h1 align="center">👋 Hi, I'm Omkar Yelsange</h1>  
-<h3 align="center">💻 Software Developer | 🚀 Aspiring Full-Stack Developer | 🤖 AI & ML Enthusiast</h3>
+<h3 align="center">💻 Frontend Developer | 
+🚀 Aspiring Full-Stack Developer | 
+👉🏻 Exploring Backend Development | 
+🤖 AI & ML Enthusiast | 
+🔸️ Active Leaner | </h3>
 
 ---
 
