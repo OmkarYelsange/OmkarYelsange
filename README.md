@@ -1,7 +1,8 @@
 <!-- 💫 Modern Dark-Themed GitHub Profile README for Omkar Yelsange -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Hey+there!+👋+I'm+Omkar+Yelsange;Software+Developer+%7C+Full+Stack+Engineer;AI+%26+ML+Enthusiast+%7C+Tech+Innovator" />
+👋Hey, I'm Omkar Yelsange
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Software+Developer+%7C+Full+Stack+Engineer;AI+%26+ML+Enthusiast+%7C+Tech+Innovator" />
 </h1>
 
 <p align="center">
