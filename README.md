@@ -1,133 +1,152 @@
-<!-- 💫 Modern Dark-Themed GitHub Profile README for Omkar Yelsange -->
-
-<h1 align="center">
-👋 Hey, I'm Omkar Yelsange
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast+%7C+Tech+Innovator" />
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNnZXZ0aWdwOHUwaTJ4Z3p5OTJ3cnB1NnN4OXJ1em1rNmkza2VtdCZlcD12MV9pbnRlcm5hbF9naWZfY3JvcHMmY3Q9cw/Q5gCj2E4mUu5X8d154/giphy.gif" width="60px" alt="Waving Hand Icon"/>
+  <h1 align="center">👋 Hi, I'm **Omkar Yelsange**</h1>
+</div>
 
 <p align="center">
+  💻 **Frontend Developer** | 🚀 **Aspiring Full-Stack Engineer** | 🧠 **AI & ML Enthusiast**
+</p>
+
+---
+
+## 🌟 About Me
+
+<div align="center">
+  <p>
+    🎓 Final-year **Robotics & Automation Engineering Student** with a strong foundation in **Software Development**, **Full-Stack Engineering**, and **Artificial Intelligence**.
+  </p>
+  <p>
+    💻 Experienced in building **scalable web applications**, intelligent **AI/ML solutions**, and end-to-end projects using **modern technologies**. I am passionate about solving complex problems through **clean code**, effective **system design**, and **data-driven solutions**.
+  </p>
+  <p>
+    🌍 Actively seeking opportunities as a **Software Developer** / **AI Engineer** / **Full-Stack Engineer** where I can contribute to impactful, real-world projects.
+  </p>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+A curated list of the technologies and tools I work with.
+
+### 🚀 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### 🌐 Web & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 🤖 AI / ML / Data Science
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### 🗄️ Databases & Hosting
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+### ⚙️ Tools & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+Showcasing my best software engineering work in AI/ML, and Full-Stack Development.
+
+### 🤖 **Intelligent NLP Chatbot**
+<p>
+  An intelligent, **NLP-powered chatbot** built for real-time query handling and conversational responses.
+</p>
+- 🧠 **Key Tech:** Natural Language Processing (NLP), Machine Learning, Python
+- ⚡ **Backend:** Flask for real-time, low-latency interactions
+- 📖 **Feature:** Utilizes an extensible knowledge base for continuous learning.
+
+### 💬 **MINI - Real-Time Chat Application**
+<p>
+  A modern, real-time chat platform with robust user authentication and a responsive user interface.
+</p>
+- 📡 **Tech Stack:** Node.js, Express.js, and **Socket.io** for real-time bi-directional communication
+- 🔐 **Authentication:** Secure user authentication via **Firebase**
+- 📱 **Design:** Scalable and mobile-responsive design for broad accessibility.
+
+### 🏡 **Airbnb Clone (WIP)**
+<p>
+  A full-stack web application designed to replicate the core functionalities of a modern property rental platform.
+</p>
+- 🏠 **Features:** Property listings, searching, and booking functionalities.
+- 🛠️ **Backend:** **MongoDB** database integrated with a **REST API** for scalable data management.
+- 🔒 **Security:** Comprehensive user authentication system.
+
+---
+
+## 🌱 Current Focus
+
+<div align="center">
+  <p>
+    I am actively focused on deepening my expertise in modern software engineering practices.
+  </p>
+  <ul>
+    <li>Building scalable **full-stack applications** with modern frameworks (e.g., Next.js, MERN/MEVN).</li>
+    <li>Expanding knowledge in advanced **AI/ML model deployment** and **MLOps**.</li>
+    <li>Collaborating on **industry-ready projects** that require robust system design.</li>
+  </ul>
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
   <a href="https://omkaryelsange.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://linkedin.com/in/omkar-yelsange" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/omkar-yelsange" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/OmkarYelsange" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="mailto:omkaryelsange1010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-</p>
+</div>
 
----
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=dark&hide_title=true&langs_count=6" alt="Omkar's Top Languages" />
+</div>
 
-## 🧠 About Me  
-
-💻 **Software Developer & AI Engineer** passionate about building modern, scalable web apps and AI-driven solutions.  
-🎓 Final-year **Robotics & Automation Engineering Student** with a focus on **Full Stack Development & Machine Learning**.  
-🚀 Turning complex problems into elegant digital solutions through **clean code, design systems, and innovation**.  
-🌍 Always learning, creating, and contributing to the tech community.  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-
----
-
-### 🌐 Web & App Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5B2A83?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🤖 AI / ML / Data  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=google&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Chatbots](https://img.shields.io/badge/Chatbots-00B8D9?style=for-the-badge&logo=botpress&logoColor=white)
-
----
-
-### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects  
-
-| 🌟 Project | 📝 Description | ⚙️ Tech Stack |
-|------------|----------------|---------------|
-| 🧠 [AI Chatbot](https://github.com/OmkarYelsange/AI-Chatbot) | Intelligent chatbot using NLP for human-like conversations | Python, Flask, NLP |
-| 💬 [MINI - Chat App](https://github.com/OmkarYelsange/Mini-Chat-App) | Real-time chat app with Firebase authentication and responsive UI | Node.js, Express, Socket.io |
-| 🏡 [Airbnb Clone (In Progress)](https://github.com/OmkarYelsange/Airbnb-Clone) | Full-stack web app replicating Airbnb’s listing and booking system | MERN Stack, Tailwind, REST API |
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarYelsange&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Current Focus  
-🎯 Mastering **Full Stack Development (MERN + Django)**  
-🤖 Building **AI-Powered Web Applications**  
-📈 Learning **System Design & Advanced DSA**  
-💼 Preparing for **SDE / AI Engineer** roles  
-
----
-
-## 🏆 Achievements  
-🏅 Completed **Machine Learning & AI Training**  
-💬 Built **AI and NLP-based Projects**  
-🌐 Developed **Full Stack Chat & Web Apps**  
-🎓 Final-Year Student in **Robotics & Automation Engineering**
-
----
-
-## ✨ Fun Quote  
-> “Code is like humor — when you have to explain it, it’s bad.”  
-> – *Cory House*
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-<h4 align="center">⭐ From <a href="https://github.com/OmkarYelsange">Omkar Yelsange</a></h4>  
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmkarYelsange&left_color=black&right_color=blue" />
-</p>
+<br>
+<div align="center">
+  <p>
+    *"Passionate about merging Software Engineering and AI to create impactful, data-driven solutions."* 💡
+  </p>
+</div>
