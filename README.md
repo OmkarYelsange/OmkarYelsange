@@ -45,23 +45,6 @@
 
 ---
 
-<h2 align="center">🏆 Achievements & Stats</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarYelsange&theme=gruvbox&margin-w=10&column=3" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=OmkarYelsange&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarYelsange&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
 <h2 align="center">🛠️ Notable Projects</h2>
 
 - 🤖 [AI Chatbot](https://github.com/OmkarYelsange/AI-Chatbot): NLP-powered chatbot using Python & Flask, real-time Q&A, extensible knowledge base.
