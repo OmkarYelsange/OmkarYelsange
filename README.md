@@ -34,7 +34,7 @@
 
 <h2 align="center">💡 About Me</h2>
 
-<p align="center">
+<p >
 🎓 Final-year Robotics & Automation Engineering student<br>
 💻 Passionate about Modern Frontend, Fullstack, and AI/ML<br>
 🛠️ Love building scalable web apps, innovative AI, and IoT projects<br>
@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,python,cpp,java,mongodb,mysql,firebase,tailwind,git,github,vercel,figma,vscode,linux,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwindcss,nodejs,express,python,cpp,clerk,mongodb,mysql,firebase,tailwind,git,github,vercel,netlify,vscode,arduino&perline=10" />
 </p>
 
 ---
@@ -60,15 +60,6 @@
   </a>
   <a href="https://github.com/OmkarYelsange/Mini-Chat-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmkarYelsange&repo=Mini-Chat-App&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/OmkarYelsange/Airbnb-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmkarYelsange&repo=Airbnb-Clone&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/OmkarYelsange/IoT-Smart-Chair-Kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmkarYelsange&repo=IoT-Smart-Chair-Kit&theme=tokyonight" />
   </a>
 </p>
 
