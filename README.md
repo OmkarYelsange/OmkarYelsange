@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,tailwindcss,nodejs,express,python,cpp,clerk,mongodb,mysql,firebase,tailwind,git,github,vercel,netlify,vscode,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,html,css,nodejs,express,python,cpp,clerk,mongodb,mysql,firebase,tailwind,git,github,vercel,netlify,vscode,arduino&perline=10" />
 </p>
 
 ---
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OmkarYelsange&bg_color=0D1117&color=6CC644&line=6CC644&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OmkarYelsange" alt="GitHub Activity Graph" />
 </p>
 
 ---
