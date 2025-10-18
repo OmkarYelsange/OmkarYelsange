@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://github.com/OmkarYelsange/React-Project-E-Commerce-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmkarYelsange&repo=E-Commerce Website&theme=tokyonight&border_color=0F85E6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmkarYelsange&repo=React-Project-E-Commerce-Website&theme=tokyonight&border_color=0F85E6" />
   </a>
   <a href="https://github.com/OmkarYelsange/Mini-Chat-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmkarYelsange&repo=Mini-Chat-App&theme=tokyonight&border_color=0F85E6" />
