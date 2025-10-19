@@ -47,7 +47,7 @@
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,python,cpp,mongodb,mysql,firebase,git,github,vercel,netlify,vscode,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,python,cpp,mongodb,mysql,firebase,git,github,vercel,netlify,vscode,postman,arduino&perline=10" />
 </p>
 
 ---
