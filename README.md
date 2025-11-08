@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center">🌐 Coonect with Me </h2>
+<h2 align="center">🌐 Conect with Me </h2>
 <p align="center">
   <a href="https://github.com/OmkarYelsange">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
