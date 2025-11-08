@@ -1,11 +1,11 @@
 <!-- 💫 Modern, Clean, and Balanced GitHub Profile README for Omkar Yelsange -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1500&color=0F85E6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Omkar+Yelsange!;Creating+Impactful+Software.;Frontend+%2B+AI+Enthusiast.;Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0F85E6&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=70&fontColor=ffffff" alt="Profile Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0F85E6&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=70&fontColor=ffffff" alt="Profile Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1500&color=0F85E6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Omkar+Yelsange!;Creating+Impactful+Software.;Frontend+%2B+AI+Enthusiast.;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 ---
