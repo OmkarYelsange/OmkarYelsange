@@ -35,19 +35,21 @@
 
 ## 👋 About Me
 
-<div>
-  <img src="Profile Photo.jpeg" width="200" height="200" style="border-radius: 50%; border: 4px solid #007acc; float: left; margin-right: 30px;" />
-  
-  <div align="left">
-    <p>🎓 Final-year Robotics & Automation Engineering student</p>
-    <p>💻 Passionate about Modern Frontend, Fullstack, and AI/ML</p>
-    <p>🛠️ Love building scalable Web Apps, innovative AI, and IoT Projects</p>
-    <p>🌟 Always exploring new technologies and open-source collaboration</p>
-    <p>👀 Open to impactful SDE, AI/ML, or Fullstack roles</p>
-  </div>
-</div>
-
-<br clear="both">
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="Profile Photo.jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #007acc;" />
+    </td>
+    <td width="30"></td>
+    <td align="left" valign="top">
+      <p>🎓 Final-year Robotics & Automation Engineering student</p>
+      <p>💻 Passionate about Modern Frontend, Fullstack, and AI/ML</p>
+      <p>🛠️ Love building scalable Web Apps, innovative AI, and IoT Projects</p>
+      <p>🌟 Always exploring new technologies and open-source collaboration</p>
+      <p>👀 Open to impactful SDE, AI/ML, or Fullstack roles</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
