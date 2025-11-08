@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1500&color=0F85E6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Omkar+Yelsange!;Creating+Impactful+Software.;Frontend+%2B+AI+Enthusiast.;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
----
+
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://github.com/OmkarYelsange">
@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=OmkarYelsange&style=for-the-badge&color=0F85E6" alt="Profile views"/>
 </p>
 
----
+
 
 <h2 align="center">💡 About Me</h2>
 
@@ -41,7 +41,7 @@
 👀 Open to impactful <b>SDE, AI/ML,</b> or <b>Fullstack</b> roles
 </p>
 
----
+
 
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,python,cpp,mongodb,mysql,firebase,git,github,vercel,netlify,vscode,postman,arduino&perline=10" />
 </p>
 
----
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -62,7 +62,7 @@
   </a>
 </p>
 
----
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -75,7 +75,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarYelsange&bg_color=0D1117&color=0F85E6&line=0F85E6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
+
 
 <h2 align="center">📈 Weekly Metrics</h2>
 
@@ -83,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
@@ -93,7 +93,7 @@
   <a href="https://omkaryelsange.vercel.app">💻 Portfolio</a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=2000&color=6CC644&center=true&vCenter=true&width=700&lines=Thanks+for+Visiting!;Open+to+Collaboration.;Let's+Code+🚀" />
