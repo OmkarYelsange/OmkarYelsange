@@ -48,11 +48,11 @@
 <div align="center">
   <table>
     <tr>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" width="40" />
       <br>JavaScript
     </td>
-    <td align="center" width="80">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=react" width="40" />
       <br>React
     </td>
