@@ -37,16 +37,18 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img src="Profile Photo.jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #007acc;" />
+    <td align="center" width="200">
+      <img src="Profile Photo.jpeg" 
+           width="180" 
+           height="180" 
+           style="border-radius: 50%; border: 4px solid #007acc; object-fit: cover;" />
     </td>
-    <td width="30"></td>
-    <td align="left" valign="top">
-      <p>🎓 Final-year Robotics & Automation Engineering student</p>
-      <p>💻 Passionate about Modern Frontend, Fullstack, and AI/ML</p>
-      <p>🛠️ Love building scalable Web Apps, innovative AI, and IoT Projects</p>
+    <td align="left">
+      <p>🎓 Final-year <b>Robotics & Automation Engineering</b> student</p>
+      <p>💻 Passionate about <b>Modern Frontend, Fullstack, and AI/ML</b></p>
+      <p>🛠️ Love building scalable <b>Web Apps</b>, innovative <b>AI</b>, and <b>IoT Projects</b></p>
       <p>🌟 Always exploring new technologies and open-source collaboration</p>
-      <p>👀 Open to impactful SDE, AI/ML, or Fullstack roles</p>
+      <p>👀 Open to impactful <b>SDE, AI/ML,</b> or <b>Fullstack</b> roles</p>
     </td>
   </tr>
 </table>
