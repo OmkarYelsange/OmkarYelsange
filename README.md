@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
   <a href="https://github.com/OmkarYelsange">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=OmkarYelsange&style=for-the-badge&color=0F85E6" alt="Profile views"/>
 </p>
 
-
+---
 
 <h2 align="center">💡 About Me</h2>
 
@@ -41,7 +41,7 @@
 👀 Open to impactful <b>SDE, AI/ML,</b> or <b>Fullstack</b> roles
 </p>
 
-
+---
 
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,python,cpp,mongodb,mysql,firebase,git,github,vercel,netlify,vscode,postman,arduino&perline=10" />
 </p>
 
-
+---
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -62,7 +62,7 @@
   </a>
 </p>
 
-
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
