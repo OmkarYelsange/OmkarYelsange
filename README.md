@@ -31,15 +31,25 @@
 
 ---
 
-<h2 align="center">💡 About Me</h2>
+<div align="center">
 
-<p align="center">
-🎓 Final-year <b>Robotics & Automation Engineering</b> student<br>
-💻 Passionate about <b>Modern Frontend, Fullstack, and AI/ML</b><br>
-🛠️ Love building scalable <b>Web Apps</b>, innovative <b>AI</b>, and <b>IoT Projects</b><br>
-🌟 Always exploring new technologies and open-source collaboration<br>
-👀 Open to impactful <b>SDE, AI/ML,</b> or <b>Fullstack</b> roles
-</p>
+## 👋 About Me
+
+<div>
+  <img src="Profile Photo.jpeg" width="200" height="200" style="border-radius: 50%; border: 4px solid #007acc; float: left; margin-right: 30px;" />
+  
+  <div style="text-align: left;">
+    <p>🎓 Final-year Robotics & Automation Engineering student</p>
+    <p>💻 Passionate about Modern Frontend, Fullstack, and AI/ML</p>
+    <p>🛠️ Love building scalable Web Apps, innovative AI, and IoT Projects</p>
+    <p>🌟 Always exploring new technologies and open-source collaboration</p>
+    <p>👀 Open to impactful SDE, AI/ML, or Fullstack roles</p>
+  </div>
+</div>
+
+<br clear="both">
+
+</div>
 
 ---
 
