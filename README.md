@@ -38,7 +38,7 @@
 <div>
   <img src="Profile Photo.jpeg" width="200" height="200" style="border-radius: 50%; border: 4px solid #007acc; float: left; margin-right: 30px;" />
   
-  <div style="text-align: left;">
+  <div align="left">
     <p>🎓 Final-year Robotics & Automation Engineering student</p>
     <p>💻 Passionate about Modern Frontend, Fullstack, and AI/ML</p>
     <p>🛠️ Love building scalable Web Apps, innovative AI, and IoT Projects</p>
