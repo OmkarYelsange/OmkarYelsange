@@ -13,28 +13,23 @@
 <!-- Alternative Option: If you prefer photo in About Me section -->
 <h2 align="center">💡 About Me</h2>
 
-<div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
-  
-  <img src="Profile Photo.jpeg" 
-       alt="Omkar Yelsange"
-       style="
-         width: 160px;
-         height: 160px;
-         object-fit: cover;
-         border-radius: 50%;
-         border: 3px solid #0F85E6;
-       "
+<p align="center">
+  <img 
+    src="Profile Photo.jpeg" 
+    alt="Omkar Yelsange"
+    width="160"
+    height="160"
+    style="border-radius: 50%; object-fit: cover; border: 3px solid #0F85E6;"
   />
+</p>
 
-  <p style="max-width: 600px; text-align: left;">
-    🎓 Final-year <b>Robotics & Automation Engineering</b> student<br>
-    💻 Passionate about <b>Modern Frontend, Fullstack, and AI/ML</b><br>
-    🛠️ Love building scalable <b>Web Apps</b>, innovative <b>AI</b>, and <b>IoT Projects</b><br>
-    🌟 Always exploring new technologies and open-source collaboration<br>
-    👀 Open to impactful <b>SDE, AI/ML,</b> or <b>Fullstack</b> roles
-  </p>
-</div>
-
+<p align="center">
+  🎓 Final-year <b>Robotics & Automation Engineering</b> student<br>
+  💻 Passionate about <b>Modern Frontend, Fullstack, and AI/ML</b><br>
+  🛠️ Love building scalable <b>Web Apps</b>, innovative <b>AI</b>, and <b>IoT Projects</b><br>
+  🌟 Always exploring new technologies and open-source collaboration<br>
+  👀 Open to impactful <b>SDE, AI/ML,</b> or <b>Fullstack</b> roles
+</p>
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
