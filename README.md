@@ -6,7 +6,7 @@
 
 <!-- Profile Photo Section - Added at the top for immediate visual impact -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" width="200" height="200" style="border-radius: 50%; border: 4px solid #0F85E6; box-shadow: 0 4px 12px rgba(15, 133, 230, 0.3);" alt="Omkar Yelsange"/>
+  <img src="Profile Photo.jpeg" width="200" height="200" style="border-radius: 50%; border: 4px solid #0F85E6; box-shadow: 0 4px 12px rgba(15, 133, 230, 0.3);" alt="Omkar Yelsange"/>
 </p>
 
 <p align="center">
