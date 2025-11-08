@@ -5,9 +5,9 @@
 </p>
 
 <!-- Profile Photo Section - Added at the top for immediate visual impact -->
-<p align="center">
+<!-- <p align="center">
   <img src="Profile Photo.jpeg" width="200" height="200" style="border-radius: 50%; border: 4px solid #0F85E6; box-shadow: 0 4px 12px rgba(15, 133, 230, 0.3);" alt="Omkar Yelsange"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0F85E6&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=70&fontColor=ffffff" alt="Profile Banner"/>
@@ -16,11 +16,10 @@
 ---
 
 <!-- Alternative Option: If you prefer photo in About Me section -->
-<!--
 <h2 align="center">💡 About Me</h2>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" width="160" height="160" style="border-radius: 50%; border: 3px solid #0F85E6; float: left; margin-right: 20px;" alt="Omkar Yelsange"/>
+  <img src="Profile Photo.jpeg" width="160" height="160" style="border-radius: 50%; border: 3px solid #0F85E6; float: left; margin-right: 20px;" alt="Omkar Yelsange"/>
   
   <p align="left" style="display: inline-block; max-width: 600px; text-align: left;">
     🎓 Final-year <b>Robotics & Automation Engineering</b> student<br>
@@ -30,7 +29,7 @@
     👀 Open to impactful <b>SDE, AI/ML,</b> or <b>Fullstack</b> roles
   </p>
 </div>
--->
+
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
