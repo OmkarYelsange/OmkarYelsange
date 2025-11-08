@@ -48,87 +48,91 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="48" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="48" />
-        <br>React
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
-        <br>Next.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
-        <br>Node.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=express" width="48" />
-        <br>Express
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" />
-        <br>HTML
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" />
-        <br>CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=python" width="48" />
-        <br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" />
-        <br>C++
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-        <br>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" />
-        <br>Firebase
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="48" />
-        <br>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="48" />
-        <br>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" />
-        <br>Vercel
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=netlify" width="48" />
-        <br>Netlify
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" />
-        <br>VS Code
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" />
-        <br>Postman
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" />
-        <br>Arduino
-      </td>
-    </tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=js" width="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=react" width="40" />
+      <br>React
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" />
+      <br>Next.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+      <br>Node.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=express" width="40" />
+      <br>Express
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="40" />
+      <br>HTML
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=css" width="40" />
+      <br>CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=python" width="40" />
+      <br>Python
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" />
+      <br>C++
+    </td>
+  </tr>
+  
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40" />
+      <br>Firebase
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=git" width="40" />
+      <br>Git
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=github" width="40" />
+      <br>GitHub
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" />
+      <br>Vercel
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=netlify" width="40" />
+      <br>Netlify
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+      <br>VS Code
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" />
+      <br>Postman
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=arduino" width="40" />
+      <br>Arduino
+    </td>
+  </tr>
   </table>
 </p>
 
