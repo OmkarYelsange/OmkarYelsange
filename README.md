@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1500&color=0F85E6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Omkar+Yelsange!;Creating+Impactful+Software.;Frontend+%2B+AI+Enthusiast.;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
-<!-- Profile Photo Section - Added at the top for immediate visual impact -->
-<!-- <p align="center">
-  <img src="Profile Photo.jpeg" width="200" height="200" style="border-radius: 50%; border: 4px solid #0F85E6; box-shadow: 0 4px 12px rgba(15, 133, 230, 0.3);" alt="Omkar Yelsange"/>
-</p> -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0F85E6&height=180&text=Welcome%20to%20My%20Profile!&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=70&fontColor=ffffff" alt="Profile Banner"/>
 </p>
@@ -18,10 +13,20 @@
 <!-- Alternative Option: If you prefer photo in About Me section -->
 <h2 align="center">💡 About Me</h2>
 
-<div align="center">
-  <img src="Profile Photo.jpeg" width="160" height="160" style="border-radius: 50%; border: 3px solid #0F85E6; float: left; margin-right: 20px;" alt="Omkar Yelsange"/>
+<div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
   
-  <p align="left" style="display: inline-block; max-width: 600px; text-align: left;">
+  <img src="Profile Photo.jpeg" 
+       alt="Omkar Yelsange"
+       style="
+         width: 160px;
+         height: 160px;
+         object-fit: cover;
+         border-radius: 50%;
+         border: 3px solid #0F85E6;
+       "
+  />
+
+  <p style="max-width: 600px; text-align: left;">
     🎓 Final-year <b>Robotics & Automation Engineering</b> student<br>
     💻 Passionate about <b>Modern Frontend, Fullstack, and AI/ML</b><br>
     🛠️ Love building scalable <b>Web Apps</b>, innovative <b>AI</b>, and <b>IoT Projects</b><br>
