@@ -68,9 +68,6 @@
         <img src="https://skillicons.dev/icons?i=express" width="48" />
         <br>Express
       </td>
-    </tr>
-
-    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" />
         <br>HTML
@@ -91,9 +88,6 @@
         <img src="https://skillicons.dev/icons?i=cpp" width="48" />
         <br>C++
       </td>
-    </tr>
-
-    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
         <br>MongoDB
@@ -114,9 +108,6 @@
         <img src="https://skillicons.dev/icons?i=github" width="48" />
         <br>GitHub
       </td>
-    </tr>
-
-    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" />
         <br>Vercel
