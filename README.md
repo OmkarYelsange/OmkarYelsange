@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center">🌐 Let's Connect</h2>
+<h2 align="center">🌐 Coonect with Me </h2>
 <p align="center">
   <a href="https://github.com/OmkarYelsange">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -83,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-
+---
 
 <h2 align="center">🤝 Let's Connect!</h2>
 
