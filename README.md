@@ -49,6 +49,11 @@
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,python,cpp,mongodb,mysql,firebase,git,github,vercel,netlify,vscode,postman,arduino&perline=10" />
 </p>
 
+<p align="center">
+  JavaScript • React • NextJS • NodeJS • Express • HTML • CSS • Tailwind • Python • C++<br>
+  MongoDB • MySQL • Firebase • Git • GitHub • Vercel • Netlify • VS Code • Postman • Arduino
+</p>
+
 ---
 
 <h2 align="center">🚀 Featured Projects</h2>
