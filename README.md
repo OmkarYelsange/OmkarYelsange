@@ -13,7 +13,7 @@
 <!-- Alternative Option: If you prefer photo in About Me section -->
 <h2 align="center">💡 About Me</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="Profile Photo.jpeg" 
     alt="Omkar Yelsange"
@@ -21,7 +21,7 @@
     height="160"
     style="border-radius: 50%; object-fit: cover; border: 3px solid #0F85E6;"
   />
-</p>
+</p> -->
 
 <p align="center">
   🎓 Final-year <b>Robotics & Automation Engineering</b> student<br>
