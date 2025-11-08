@@ -45,7 +45,7 @@
 
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
     <td align="center" width="80">
@@ -134,7 +134,7 @@
     </td>
   </tr>
   </table>
-</p>
+</div>
 
 ---
 
