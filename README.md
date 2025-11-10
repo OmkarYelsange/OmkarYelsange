@@ -59,7 +59,6 @@
 
 <h2 align="center">⚡ Tech Stack & Tools</h2>
 
-see update this code 
 
 <div align="center">
   <table>
