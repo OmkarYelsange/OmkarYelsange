@@ -170,14 +170,12 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarYelsange&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=OmkarYelsange&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarYelsange&bg_color=0D1117&color=0F85E6&line=0F85E6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-
 
 <h2 align="center">📈 Weekly Metrics</h2>
 
