@@ -31,21 +31,13 @@
 <table>
   <tr>
     <td valign="top" width="55%">
-
-🎓 **Final-year Robotics & Automation Engineering** student at DY Patil College of Engineering, Pune (CGPA: 9.0)
-
-📊 **Aspiring Data Analyst & AI/ML Engineer** — passionate about extracting stories from data and building intelligent systems
-
-🔬 **Published Research** at DIPEX 2025 • **Best Innovation Award** recipient
-
-🧠 Skilled in **Python, SQL, Data Visualization, Machine Learning, NLP & Computer Vision**
-
-🌉 Unique edge: I bridge **hardware (IoT/Robotics)** and **software (AI/Data)** — a rare combo for Industrial AI roles
-
-📍 Based in Pune, India • Open to **Remote & Relocation**
-
-🎯 Target roles: **Data Analyst · Data Scientist · AI/ML Engineer · Business Intelligence**
-
+      <p>🎓 Final-year <b>Robotics &amp; Automation Engineering</b> student at DY Patil College of Engineering, Pune (CGPA: 9.0)</p>
+      <p>📊 <b>Aspiring Data Analyst &amp; AI/ML Engineer</b> — passionate about extracting stories from data and building intelligent systems</p>
+      <p>🔬 <b>Published Research</b> at DIPEX 2025 • <b>Best Innovation Award</b> recipient</p>
+      <p>🧠 Skilled in <b>Python, SQL, Data Visualization, Machine Learning, NLP &amp; Computer Vision</b></p>
+      <p>🌉 Unique edge: I bridge <b>hardware (IoT/Robotics)</b> and <b>software (AI/Data)</b> — a rare combo for Industrial AI roles</p>
+      <p>📍 Based in Pune, India • Open to <b>Remote &amp; Relocation</b></p>
+      <p>🎯 Target roles: <b>Data Analyst · Data Scientist · AI/ML Engineer · Business Intelligence</b></p>
     </td>
     <td valign="top" width="45%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="100%"/>
