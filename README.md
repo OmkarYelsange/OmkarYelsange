@@ -316,56 +316,6 @@ An intelligent chatbot application integrating Python, NLP concepts and Google's
 
 ---
 
-# 🏆 Engineering + Data Differentiator
-
-<div align="center">
-
-```text
-                    REAL-WORLD SYSTEMS
-                           │
-                           ▼
-                    IoT / SENSOR DATA
-                           │
-                           ▼
-                    DATA COLLECTION
-                           │
-                           ▼
-                 CLEANING & TRANSFORMATION
-                           │
-                           ▼
-                 SQL / PYTHON / ETL
-                           │
-                           ▼
-             ┌─────────────┴─────────────┐
-             ▼                           ▼
-       DATA ANALYTICS                 MACHINE LEARNING
-             │                           │
-             ▼                           ▼
-       POWER BI / BI                 AI APPLICATIONS
-             │                           │
-             └─────────────┬─────────────┘
-                           ▼
-                 ACTIONABLE INSIGHTS
-```
-
-</div>
-
-My Robotics & Automation background gives me an additional advantage:
-
-**I understand both the physical system producing the data and the software stack used to analyze it.**
-
-This makes my profile particularly relevant to:
-
-* Industrial Analytics
-* Manufacturing Analytics
-* Predictive Maintenance
-* IoT Analytics
-* Industrial AI
-* Operations Analytics
-* Data Engineering for Connected Systems
-
----
-
 # 📚 Currently Building
 
 ```python
