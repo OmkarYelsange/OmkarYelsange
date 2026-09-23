@@ -1,43 +1,62 @@
 name: Update Profile Art
 
 on:
+  # Update the contribution graph once every day.
   schedule:
     - cron: "17 6 * * *"
 
+  # Allows you to run the workflow manually from:
+  # GitHub → Actions → Update Profile Art → Run workflow
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
+# Prevent multiple profile-art updates from running at the same time.
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
 
+# Required so the workflow can commit generated files back to the repository.
 permissions:
   contents: write
 
 jobs:
   heatmap:
+    name: Update Contribution Heatmap
     runs-on: ubuntu-latest
 
+    env:
+      GITHUB_USERNAME: OmkarYelsange
+
     steps:
+      # 1. Get the latest version of your profile repository.
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Install Python.
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: "scripts/requirements.txt"
 
+      # 3. Install only the dependencies required by the
+      #    contribution-fetching/rendering scripts.
       - name: Install dependencies
         run: |
-          pip install -r scripts/requirements.txt
+          python -m pip install --upgrade pip
+          python -m pip install -r scripts/requirements.txt
 
+      # 4. Fetch your real GitHub contribution data.
       - name: Fetch GitHub contributions
         run: |
           python scripts/fetch_contributions.py
 
+      # 5. Generate the animated SVG heatmap.
       - name: Render contribution heatmap
         run: |
           python scripts/render_heatmap_svg.py
 
+      # 6. Commit the updated files only if something changed.
       - name: Commit updated profile art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

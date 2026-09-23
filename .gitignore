@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary processed image
+prepped.png
+
+# OS files
+.DS_Store
+Thumbs.db
