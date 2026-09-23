@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td valign="top">
-<img src="./assets/omkar-ascii.svg" width="370" alt="Omkar Yelsange ASCII portrait" />
+<img src="./PP.png" width="370" alt="Omkar Yelsange ASCII portrait" />
 </td>
 
 <td valign="top">
