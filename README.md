@@ -1,129 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=200&section=header&text=Omkar%20Yelsange&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<h3><code>omkar@github ~ $ ./contributions.sh</code></h3>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Raw+Data+→+Clean+Data+→+Insight+→+Decision+📊;Building+ETL+Pipelines+%26+Data+Workflows+⚙️;SQL+%7C+Python+%7C+Power+BI+%7C+Machine+Learning+🤖;Industrial+IoT+Data+%26+Predictive+Analytics+🏭" alt="Typing SVG"/>
+<img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-yelsange)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://omkaryelsange.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkaryelsange1010@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmkarYelsange)
+<h3><code>omkar@github ~ $ whoami</code></h3>
 
-<img src="https://komarev.com/ghpvc/?username=OmkarYelsange&style=flat-square&color=0EA5E9&label=Profile+Views"/>
+<table>
+<tr>
+<td valign="top">
+<img src="./assets/omkar-ascii.svg" width="370" alt="Omkar Yelsange ASCII portrait" />
+</td>
 
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Data Analyst & Data Engineer** with a B.E. in Robotics & Automation Engineering (CGPA: 8.90), bringing a hands-on perspective from real industrial environments.
-
-I've worked as a **Data Analyst at Autoline Industries**, collecting and analyzing live sensor data from industrial grinding machines — bridging the gap between physical systems and data-driven decisions.
-
-My workflow:
-
-```
-Raw Data  →  Cleaning  →  SQL / Python  →  Analysis  →  Visualization  →  Business Insight  →  Action
-```
-
-I focus on building **end-to-end data solutions** — from ETL pipelines and SQL analytics to dashboards and ML-powered applications — with a strong emphasis on **business impact** and **data quality**.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-**ML & AI**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-**Engineering & Dev**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🏭 **Machine Monitoring (Autoline)** | Industrial sensor data analytics & predictive maintenance from live grinding machines | `Python` `ML` `IoT` `Pipelines` |
-| 🛒 **Zepto SQL Analytics** | Business insight extraction using advanced SQL — CTEs, window functions, aggregations | `PostgreSQL` `SQL` `Analytics` |
-| 🛍️ **Blinkit Retail Analytics** | E-commerce KPI analysis with interactive Power BI dashboards | `Python` `SQL` `Power BI` |
-| 🏠 **Airbnb EDA** | Pricing, availability & location pattern analysis from accommodation data | `Python` `Pandas` `EDA` |
-| 🚕 **Ola Operations Analytics** | Ride data analysis to extract operational patterns and actionable insights | `Python` `SQL` `Visualization` |
-| 🤖 **SAMS** | Smart Automated Maintenance System — IoT + ML for industrial predictive maintenance | `Python` `ML` `IoT` `DE` |
-| 🧠 **AI Chatbot** | NLP-powered chatbot using Google Gemini API with Flask backend | `Python` `NLP` `Flask` `Gemini` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=7" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarYelsange&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&radius=8" width="93%"/>
-
-</div>
-
----
-
-## 🏅 Highlights
-
-- 🥇 **Best Innovation Award** — DIPEX 2025
-- 📄 **Research Work** — IoT Smart Chair Kit (2025)
-- 🎓 **IBM Prompt Engineering Certification** (2025)
-- 📊 **Deloitte Data Analytics Virtual Internship** — Forage (2026)
-- 💼 **Internships** — Data Analyst · Project Management · Full Stack Dev
-- 🎓 **B.E. Robotics & Automation Engineering** — D.Y. Patil COE, Pune (2022–26)
-
----
-
-<div align="center">
-
-### 💬 Open to roles in Data Analytics · Data Engineering · Business Intelligence · AI/ML
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-yelsange)
-[![Portfolio](https://img.shields.io/badge/Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://omkaryelsange.vercel.app)
+<td valign="top">
+<img src="./assets/info-card.svg" width="490" alt="Omkar Yelsange information card" />
+</td>
+</tr>
+</table>
 
 <br>
 
-*"Data drives decisions. I turn data into insights."*
+<h3><code>omkar@github ~ $ cat about.txt</code></h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0EA5E9&height=100&section=footer" width="100%"/>
+</div>
+
+### 👋 About Me
+
+I'm **Omkar Yelsange**, a Data Analyst & Data Engineering enthusiast with a B.E. in Robotics & Automation Engineering.
+
+I enjoy working across the complete data lifecycle:
+
+`Raw Data → Cleaning → SQL/Python → ETL → Analysis → Visualization → Business Insight`
+
+My experience combines **data analytics, manufacturing data, SQL, Python, Power BI, cloud data platforms and machine-learning applications**.
+
+I particularly enjoy converting raw operational data into structured information, dashboards and actionable insights.
+
+### 🛠️ Tech Stack
+
+**Languages & Analytics**
+
+`Python` `SQL` `C++` `JavaScript` `R`
+
+**Data & Databases**
+
+`MySQL` `PostgreSQL` `MongoDB` `Pandas` `NumPy`
+
+**BI & Visualization**
+
+`Power BI` `Tableau` `Microsoft Excel` `Matplotlib` `Seaborn`
+
+**Data Engineering & Cloud**
+
+`Databricks` `PySpark` `AWS S3` `AWS Glue` `AWS Athena` `Lakehouse` `ETL`
+
+**AI / ML**
+
+`Scikit-learn` `Machine Learning` `NLP` `Generative AI` `Google Gemini API`
+
+**Development**
+
+`React.js` `Node.js` `Express.js` `Flask` `REST APIs` `Firebase`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `Postman` `Jupyter`
+
+---
+
+<div align="center">
+
+<h3><code>omkar@github ~ $ ls projects/</code></h3>
+
+</div>
+
+### 🚀 Featured Projects
+
+| Project                             | Description                                                            | Technologies                            |
+| ----------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- |
+| 🏭 **GoodCabs Data Engineering**    | End-to-end transportation data pipeline using Medallion architecture   | `Databricks` `PySpark` `AWS S3` `SQL`   |
+| 🏭 **Machine Monitoring Analytics** | Manufacturing and machine-performance analytics using operational data | `SQL` `Power BI` `Excel`                |
+| 🚕 **Ola Data Analytics**           | Ride-booking analysis covering operational and business KPIs           | `SQL` `Excel` `Power BI`                |
+| ⚡ **Zepto SQL Analytics**          | E-commerce product, pricing, discount and inventory analysis           | `SQL` `PostgreSQL`                      |
+| 🛒 **Blinkit Grocery Analytics**    | Retail KPI analysis and interactive dashboard development              | `SQL` `Power BI` `Excel`                |
+| 🏠 **Airbnb EDA**                   | Exploratory analysis of 20K+ accommodation listings                    | `Python` `Pandas` `NumPy` `Matplotlib`  |
+| 🤖 **SAMS**                         | IoT + ML based predictive maintenance system                           | `Python` `ML` `IoT`                     |
+| 🧠 **AI Chatbot**                   | NLP chatbot with Gemini API and Flask backend                          | `Python` `NLP` `Flask`                  |
+| 🪑 **IoT Smart Chair**              | Smart posture and sitting-time monitoring system                       | `ESP32` `Python` `IoT` `Data Analytics` |
+
+My data analytics portfolio is available in **[Data-Analytics-Projects](https://github.com/OmkarYelsange/Data-Analytics-Projects)**.
+
+---
+
+<div align="center">
+
+<h3><code>omkar@github ~ $ ./highlights.sh</code></h3>
+
+</div>
+
+### 🏆 Highlights
+
+- 🥇 **Best Innovation Award — DIPEX 2025**
+- 📄 Research work on **IoT Smart Chair Kit**
+- 🎓 **B.E. Robotics & Automation Engineering — D.Y. Patil College of Engineering, Pune**
+- 📊 **Deloitte Data Analytics Virtual Internship — Forage**
+- 🎓 **IBM Prompt Engineering Certification**
+- 💼 Experience across **Data Analytics, Project Management and Full-Stack Development**
+- 🏭 Hands-on exposure to **industrial/manufacturing data and operational analytics**
+
+---
+
+<div align="center">
+
+<h3><code>omkar@github ~ $ currently_exploring</code></h3>
+
+</div>
+
+```python
+current_focus = {
+    "data": [
+        "Advanced SQL",
+        "Data Analysis",
+        "Power BI",
+        "Tableau"
+    ],
+
+    "data_engineering": [
+        "Databricks",
+        "PySpark",
+        "ETL Pipelines",
+        "Lakehouse Architecture",
+        "AWS"
+    ],
+
+    "ai_ml": [
+        "Machine Learning",
+        "NLP",
+        "Generative AI"
+    ],
+
+    "building": [
+        "Data Analytics Projects",
+        "Data Engineering Pipelines",
+        "AI-powered Applications"
+    ],
+
+    "open_to": [
+        "Data Analyst",
+        "Data Engineer",
+        "Business Intelligence",
+        "AI/ML"
+    ],
+
+    "location": "Pune, India"
+}
+```
+
+---
+
+<div align="center">
+
+<h3><code>omkar@github ~ $ connect</code></h3>
+
+<p>
+<a href="https://omkaryelsange.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/omkar-yelsange">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/OmkarYelsange">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<br>
+
+<code>Data drives decisions. I turn data into insights.</code>
 
 </div>
