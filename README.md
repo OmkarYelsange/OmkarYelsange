@@ -1,12 +1,8 @@
 <div align="center">
 
-<h3><code>omkar@github ~ $ ./contributions.sh</code></h3>
-
 <img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
 
 <br><br>
-
-<h3><code>omkar@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -21,8 +17,6 @@
 </table>
 
 <br>
-
-<h3><code>omkar@github ~ $ cat about.txt</code></h3>
 
 </div>
 
@@ -42,7 +36,7 @@ I particularly enjoy converting raw operational data into structured information
 
 **Languages & Analytics**
 
-`Python` `SQL` `C++` `JavaScript` `R`
+`Python` `SQL` `C++` `R`
 
 **Data & Databases**
 
@@ -72,8 +66,6 @@ I particularly enjoy converting raw operational data into structured information
 
 <div align="center">
 
-<h3><code>omkar@github ~ $ ls projects/</code></h3>
-
 </div>
 
 ### 🚀 Featured Projects
@@ -96,8 +88,6 @@ My data analytics portfolio is available in **[Data-Analytics-Projects](https://
 
 <div align="center">
 
-<h3><code>omkar@github ~ $ ./highlights.sh</code></h3>
-
 </div>
 
 ### 🏆 Highlights
@@ -114,9 +104,9 @@ My data analytics portfolio is available in **[Data-Analytics-Projects](https://
 
 <div align="center">
 
-<h3><code>omkar@github ~ $ currently_exploring</code></h3>
-
 </div>
+
+### 🤖 Currently Exploring
 
 ```python
 current_focus = {
@@ -162,7 +152,7 @@ current_focus = {
 
 <div align="center">
 
-<h3><code>omkar@github ~ $ connect</code></h3>
+<h3><code>Lets Connect</code></h3>
 
 <p>
 <a href="https://omkaryelsange.vercel.app">
