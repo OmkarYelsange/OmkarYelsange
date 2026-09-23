@@ -1,5 +1,5 @@
 NAME = "Omkar Yelsange"
-ROLE = "Data Analyst | Data Engineering"
+ROLE = "Data Analyst | Data Engineer"
 LOCATION = "Pune, India"
 
 STACK = [
