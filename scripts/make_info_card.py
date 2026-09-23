@@ -282,19 +282,7 @@ def build_svg():
         f'x2="466" y2="{footer_line_y}" '
         'stroke="#30363d" stroke-width="1"/>'
     )
-
-    # Terminal prompt below the separator.
-    footer_text_y = footer_line_y + 25
-
-    lines.append(
-        text_element(
-            24,
-            footer_text_y,
-            "$ ./currently_learning.sh",
-            size=12,
-            fill="#8b949e",
-        )
-    )
+    
 
     # --------------------------------------------------------
     # SVG DOCUMENT

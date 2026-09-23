@@ -142,6 +142,6 @@
                 />
                 <text x="30" y="464" font-family="monospace" font-size="14px" font-weight="normal" fill="#c9d1d9">› AI / ML</text>
             </g>
-            <line x1="24" y1="494" x2="466" y2="494" stroke="#30363d" stroke-width="1"/><text x="24" y="519" font-family="monospace" font-size="12px" font-weight="normal" fill="#8b949e">$ ./currently_learning.sh</text>
+            <line x1="24" y1="494" x2="466" y2="494" stroke="#30363d" stroke-width="1"/>
 
 </svg>
