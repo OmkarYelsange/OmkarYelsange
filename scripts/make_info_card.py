@@ -79,8 +79,11 @@ def text_element(
 # ============================================================
 
 def build_svg():
+
+    # Increased height so STACK + FOCUS + footer
+    # have enough vertical space.
     width = 490
-    height = 430
+    height = 525
 
     lines = []
 
@@ -181,9 +184,14 @@ def build_svg():
         )
     )
 
-    y = 190
+    # Starting position for stack items
+    stack_y = 190
+
+    # Vertical spacing between stack items
+    stack_spacing = 22
 
     for index, item in enumerate(STACK):
+
         delay = index * 0.10
 
         lines.append(
@@ -199,7 +207,7 @@ def build_svg():
                 />
                 {text_element(
                     30,
-                    y,
+                    stack_y,
                     "› " + item,
                     size=14,
                     fill="#c9d1d9",
@@ -208,18 +216,19 @@ def build_svg():
             '''
         )
 
-        y += 22
+        stack_y += stack_spacing
 
     # --------------------------------------------------------
     # Focus
     # --------------------------------------------------------
 
-    y += 5
+    # Add breathing room after the STACK section.
+    focus_title_y = stack_y + 8
 
     lines.append(
         text_element(
             24,
-            y,
+            focus_title_y,
             "FOCUS",
             size=12,
             fill="#8b949e",
@@ -227,9 +236,14 @@ def build_svg():
         )
     )
 
-    y += 25
+    # First focus item
+    focus_y = focus_title_y + 28
+
+    # More spacing between focus items
+    focus_spacing = 28
 
     for index, item in enumerate(FOCUS):
+
         delay = 0.75 + (index * 0.10)
 
         lines.append(
@@ -245,7 +259,7 @@ def build_svg():
                 />
                 {text_element(
                     30,
-                    y,
+                    focus_y,
                     "› " + item,
                     size=14,
                     fill="#c9d1d9",
@@ -254,26 +268,37 @@ def build_svg():
             '''
         )
 
-        y += 22
+        focus_y += focus_spacing
 
     # --------------------------------------------------------
     # Footer
     # --------------------------------------------------------
 
+    # Position footer dynamically below the final FOCUS item.
+    footer_line_y = focus_y + 2
+
     lines.append(
-        '<line x1="24" y1="385" x2="466" y2="385" '
+        f'<line x1="24" y1="{footer_line_y}" '
+        f'x2="466" y2="{footer_line_y}" '
         'stroke="#30363d" stroke-width="1"/>'
     )
+
+    # Terminal prompt below the separator.
+    footer_text_y = footer_line_y + 25
 
     lines.append(
         text_element(
             24,
-            410,
+            footer_text_y,
             "$ ./currently_learning.sh",
             size=12,
             fill="#8b949e",
         )
     )
+
+    # --------------------------------------------------------
+    # SVG DOCUMENT
+    # --------------------------------------------------------
 
     svg = f'''<?xml version="1.0" encoding="UTF-8"?>
 <svg
@@ -300,7 +325,11 @@ def build_svg():
 # ============================================================
 
 def main():
-    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    OUTPUT_FILE.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
     svg = build_svg()
 
@@ -309,7 +338,9 @@ def main():
         encoding="utf-8",
     )
 
-    print(f"Created: {OUTPUT_FILE}")
+    print(
+        f"Created: {OUTPUT_FILE}"
+    )
 
 
 if __name__ == "__main__":
