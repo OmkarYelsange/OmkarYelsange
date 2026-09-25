@@ -320,7 +320,7 @@
     width="11"
     height="11"
     rx="3"
-    fill="#26a641"
+    fill="#39d353"
     opacity="0"
 >
     <animate
@@ -472,7 +472,7 @@
     width="11"
     height="11"
     rx="3"
-    fill="#26a641"
+    fill="#39d353"
     opacity="0"
 >
     <animate
@@ -2239,7 +2239,7 @@
     width="11"
     height="11"
     rx="3"
-    fill="#006d32"
+    fill="#26a641"
     opacity="0"
 >
     <animate
@@ -5127,7 +5127,7 @@
     width="11"
     height="11"
     rx="3"
-    fill="#006d32"
+    fill="#26a641"
     opacity="0"
 >
     <animate
@@ -5621,7 +5621,7 @@
     width="11"
     height="11"
     rx="3"
-    fill="#006d32"
+    fill="#26a641"
     opacity="0"
 >
     <animate
@@ -6020,7 +6020,7 @@
     width="11"
     height="11"
     rx="3"
-    fill="#26a641"
+    fill="#39d353"
     opacity="0"
 >
     <animate
@@ -6514,7 +6514,7 @@
     width="11"
     height="11"
     rx="3"
-    fill="#26a641"
+    fill="#39d353"
     opacity="0"
 >
     <animate
@@ -7159,6 +7159,6 @@
     font-size="10"
     fill="#8b949e"
 >
-    Current streak: 5 days   •   Longest streak: 46 days   •   Best day: 29 on 2025-11-08
+    Current streak: 0 days   •   Longest streak: 46 days   •   Best day: 29 on 2025-11-08
 </text>
 </svg>
