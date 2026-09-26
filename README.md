@@ -36,7 +36,7 @@ I particularly enjoy converting raw operational data into structured information
 
 **Languages & Analytics**
 
-`Python` `SQL` `C++` `R`
+`Python` `SQL` `C++`
 
 **Data & Databases**
 
