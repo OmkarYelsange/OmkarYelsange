@@ -28,7 +28,7 @@ I enjoy working across the complete data lifecycle:
 
 `Raw Data → Cleaning → SQL/Python → ETL → Analysis → Visualization → Business Insight`
 
-My experience combines **data analytics, manufacturing data, SQL, Python, Power BI, cloud data platforms and machine-learning applications**.
+My experience combines **Data Analytics, Data Engineering, SQL, Python, Power BI, Cloud Data Platforms - Databricks and Machine-learning Applications**.
 
 I particularly enjoy converting raw operational data into structured information, dashboards and actionable insights.
 
