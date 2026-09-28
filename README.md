@@ -56,7 +56,7 @@ I particularly enjoy converting raw operational data into structured information
 
 **Development**
 
-`React.js` `Node.js` `Express.js` `Flask` `REST APIs` `Firebase`
+`React.js` `Node.js` `Express.js` `REST APIs` `Firebase`
 
 **Tools**
 
