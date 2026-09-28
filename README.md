@@ -98,7 +98,7 @@ My data analytics portfolio is available in **[Data-Analytics-Projects](https://
 - 📊 **Deloitte Data Analytics Virtual Internship — Forage**
 - 🎓 **IBM Prompt Engineering Certification**
 - 💼 Experience across **Data Analytics, Project Management and Full-Stack Development**
-- 🏭 Hands-on exposure to **industrial/manufacturing data and operational analytics**
+- 🏭 Hands-on exposure to **industrial data and operational analytics**
 
 ---
 
@@ -152,7 +152,7 @@ current_focus = {
 
 <div align="center">
 
-<h3><code>Lets Connect</code></h3>
+<h3><code>Lets Connect👍🏻</code></h3>
 
 <p>
 <a href="https://omkaryelsange.vercel.app">
