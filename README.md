@@ -52,7 +52,7 @@ I particularly enjoy converting raw operational data into structured information
 
 **AI / ML**
 
-`Scikit-learn` `Machine Learning` `NLP` `Generative AI` `Google Gemini API`
+`Machine Learning` `NLP` `Generative AI` `Google Gemini API`
 
 **Development**
 
