@@ -4,17 +4,14 @@
 
 <br><br>
 
-<table>
-<tr>
-<!-- <td valign="top">
-<img src="./PP.png" width="370" alt="Omkar Yelsange ASCII portrait" />
-</td> -->
+<!-- <table>
+<tr> -->
 
-<td valign="top">
+<!-- <td valign="top"> -->
 <img src="./assets/info-card.svg" width="490" alt="Omkar Yelsange information card" />
-</td>
+<!-- </td>
 </tr>
-</table>
+</table> -->
 
 <br>
 
