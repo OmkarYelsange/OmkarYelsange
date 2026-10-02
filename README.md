@@ -4,11 +4,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Omkar%20Yelsange&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20AI%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Omkar Yelsange banner" />  -->
 
 <div align="center">
-
-<img src="./assets/github-banner-2.svg"
-     width="100%"
-     alt="Omkar Yelsange — Data Analyst | Data Engineer | AI | ML Enthusiast">
-
+<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
 </div>
 
 <a href="https://git.io/typing-svg">
