@@ -6,9 +6,9 @@
 
 <table>
 <tr>
-<td valign="top">
+<!-- <td valign="top">
 <img src="./PP.png" width="370" alt="Omkar Yelsange ASCII portrait" />
-</td>
+</td> -->
 
 <td valign="top">
 <img src="./assets/info-card.svg" width="490" alt="Omkar Yelsange information card" />
