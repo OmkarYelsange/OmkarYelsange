@@ -4,14 +4,14 @@
 
 <br><br>
 
-<!-- <table>
-<tr> -->
-
-<!-- <td valign="top"> -->
+<table>
+<tr> 
+<img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
+ <td valign="top"> 
 <img src="./assets/info-card.svg" width="490" alt="Omkar Yelsange information card" />
-<!-- </td>
+ </td>
 </tr>
-</table> -->
+</table>
 
 <br>
 
