@@ -3,12 +3,12 @@
  
 <table>
 <tr> 
-<td>
- <img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
-</td>
  <td valign="top"> 
 <img src="./assets/info-card.svg" width="490" alt="Omkar Yelsange information card" />
  </td>
+ <td>
+ <img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
+</td>
 </tr>
 </table>
 
