@@ -4,8 +4,15 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Omkar%20Yelsange&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20AI%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Omkar Yelsange banner" />  -->
 
 <div align="center">
-<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
+
+<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260&nameSize=160&titleSize=80&taglineSize=50" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
+
 </div>
+
+
+<!-- <div align="center">
+<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
+</div> -->
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Raw+Data+%E2%86%92+Insights+%E2%86%92+Decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks;Building+Pipelines+%26+Dashboards+that+matter;Open+to+Data+Analyst+%2F+Data+Engineer+roles" alt="Typing animation" />
