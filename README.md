@@ -221,7 +221,7 @@ current_focus = {
 
     "location": "Pune, India"
 }
-
+```
 ---
 
 GitHub Activity
