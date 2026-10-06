@@ -242,6 +242,4 @@ Data drives decisions. I turn data into insights.
 
 <br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="Footer"></div>
 
-```One correction from your original: I did not put "Google Sans Flex" into the README itself, because GitHub will not reliably apply an external Google Font to Markdown-rendered text. The visual hierarchy above is the GitHub-compatible way to get that clean typography style.
-
-Also, I would not use "font=Google+Sans+Flex" in the "readme-typing-svg" URL unless that service actually supports/loads that font. If it doesn't, it will fall back to another font. For the typing animation, "Inter" or "Fira Code" is safer.
+ 
