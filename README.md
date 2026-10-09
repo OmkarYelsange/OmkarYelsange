@@ -5,11 +5,11 @@
 
 <img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" />
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260&nameSize=160&titleSize=80&taglineSize=50" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
+<!-- <img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260&nameSize=160&titleSize=80&taglineSize=50" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
 
-</div>
+</div> -->
 
 
 <!-- <div align="center">
