@@ -1,7 +1,9 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Omkar%20Yelsange&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20AI%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Omkar Yelsange banner" />  -->
+<h3><code>omkar@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" />
 
 <div align="center">
 
@@ -28,40 +30,54 @@
 
 <br/><br/>
 
+<h3><code>omkar@github ~ $ whoami</code></h3>
+
 <table>
-  <tr>
-    <td valign="top">
-      <img src="./assets/info-card.svg" width="490" alt="Omkar Yelsange information card" />
-    </td>
-    <td>
-      <img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
-    </td>
-  </tr>
+<tr>
+<td valign="top"><img src="./omkar-ascii.svg" width="420" alt="Omkar Yelsange — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Omkar Yelsange GitHub contribution statistics — refreshed daily" /></td>
+</tr>
 </table>
 
+<br><br>
+
+<h3><code>omkar@github ~ $ ./links.sh</code></h3>
+
+<p><b>Data Analyst · Aspiring Data Engineer · AI/ML Enthusiast</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-omkary.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://omkary.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
+[![Instagram](https://img.shields.io/badge/Instagram-omkar._2_0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omkar._2_0/)
+[![X](https://img.shields.io/badge/X-@Omkar_Yelsange-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Omkar_Yelsange)
+[![GitHub](https://img.shields.io/badge/GitHub-OmkarYelsange-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmkarYelsange)
+
 </div>
 
 ---
 
-## 👋 About Me
+## `omkar@github ~ $ cat profile.txt`
 
-I'm **Omkar Yelsange**, a **Data Analyst & Data Engineering enthusiast** with a **B.E. in Robotics & Automation Engineering**. I turn raw operational data into structured information, dashboards, and actionable business insight.
+I’m **Omkar Yelsange**, a **Data Analyst** focused on SQL, Python, Power BI, data engineering, and applied AI/ML.
 
-> **My workflow across the complete data lifecycle**
+I enjoy taking messy operational data through the complete lifecycle:
 
-<div align="center">
+`Raw Data` → `Cleaning` → `SQL / Python` → `ETL` → `Analysis` → `Visualization` → `Business Insight`
 
-`Raw Data` ➜ `Cleaning` ➜ `SQL / Python` ➜ `ETL` ➜ `Analysis` ➜ `Visualization` ➜ `Business Insight`
+Currently, I work with data and operations while building toward roles in **Data Engineering, Business Intelligence, and AI/ML**.
 
-</div>
+### `omkar@github ~ $ ./focus.sh`
 
-**Core strengths:** Data Analytics · Data Engineering · SQL · Python · Power BI · Databricks · Machine Learning
+- 📊 Data Analytics & Business Intelligence
+- 🏗️ Data Engineering & ETL
+- ☁️ AWS & Databricks Lakehouse
+- 🤖 Machine Learning, NLP & Generative AI
+- 💻 Python, SQL & modern software development
 
----
+### `omkar@github ~ $ ./stack.sh`
 
-## 💪 Strengths at a Glance
+**Languages & Analytics**
 
-<div align="center">
+`Python` `SQL` `C++` `JavaScript` `Pandas` `NumPy`
 
 | 📊 Analytics | 🏗️ Engineering | 🤖 AI / ML | 🌐 Development |
 | :---: | :---: | :---: | :---: |
@@ -69,141 +85,71 @@ I'm **Omkar Yelsange**, a **Data Analyst & Data Engineering enthusiast** with a 
 | Power BI, Tableau | AWS S3 · Glue · Athena | Generative AI | REST APIs, Firebase |
 | KPI & dashboard design | ETL & Lakehouse | Gemini API | Full-stack apps |
 
-</div>
+`Power BI` `Tableau` `Excel` `Matplotlib`
 
 ---
 
-## 🛠️ Tech Stack
+`Databricks` `PySpark` `AWS S3` `Athena` `Glue` `ETL` `Lakehouse`
+
+**Databases**
+
+`PostgreSQL` `MySQL` `MongoDB` `Firebase`
 
 **📊 Languages & Analytics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+`Machine Learning` `NLP` `Generative AI` `Gemini API`
 
 **🗄️ Data & Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+`React.js` `Node.js` `Express.js` `REST APIs` `Firebase Auth`
 
 **📈 BI & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify`
 
-**☁️ Data Engineering & Cloud**
+### `omkar@github ~ $ ls projects/`
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Athena](https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lakehouse](https://img.shields.io/badge/Lakehouse-0A66C2?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-6f42c1?style=for-the-badge)
+| Project | Description | Stack |
+|---|---|---|
+| 🚖 **GoodCabs Data Engineering** | End-to-end transportation pipeline using Bronze / Silver / Gold architecture | `Databricks` `PySpark` `AWS S3` `SQL` |
+| 🚕 **OLA Ride Analytics** | Booking, revenue, cancellation and operational KPI analysis | `SQL` `Power BI` `Excel` |
+| ⚡ **Zepto Analytics** | Product, pricing, discount, inventory and e-commerce analysis | `SQL` `PostgreSQL` `Power BI` |
+| 🏠 **Airbnb EDA** | Exploratory analysis of 20K+ accommodation listings | `Python` `Pandas` `NumPy` `Matplotlib` |
+| 🤖 **AI Chatbot** | NLP chatbot with Flask backend and Gemini API | `Python` `NLP` `Flask` |
+| 🏭 **SAMS** | Sensor-driven machine / abrasive monitoring and predictive-maintenance oriented analytics | `Python` `ML` `IoT` |
+| 🪑 **IoT Smart Chair** | Posture and sitting-time monitoring with a custom analytics dashboard | `ESP32` `Python` `IoT` |
+| 💻 **Mini Chat App** | Real-time browser chat application | `Node.js` `Express` `Socket.io` `Firebase` |
 
-**🤖 AI / ML**
+### `omkar@github ~ $ cat highlights.txt`
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-10A37F?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**💻 Development**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**🧰 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-| :-- | :-- | :-- |
-| 🚖 **GoodCabs Data Engineering** | End-to-end transportation data pipeline using **Medallion architecture** | `Databricks` `PySpark` `AWS S3` `SQL` |
-| 🏭 **Machine Monitoring Analytics** | Manufacturing & machine-performance analytics from operational data | `SQL` `Power BI` `Excel` |
-| 🚕 **Ola Data Analytics** | Ride-booking analysis covering operational and business KPIs | `SQL` `Excel` `Power BI` |
-| ⚡ **Zepto SQL Analytics** | E-commerce product, pricing, discount and inventory analysis | `SQL` `PostgreSQL` |
-| 🛒 **Blinkit Grocery Analytics** | Retail KPI analysis and interactive dashboard development | `SQL` `Power BI` `Excel` |
-| 🏠 **Airbnb EDA** | Exploratory analysis of **20K+** accommodation listings | `Python` `Pandas` `NumPy` `Matplotlib` |
-| 🤖 **SAMS** | IoT + ML based predictive maintenance system | `Python` `ML` `IoT` |
-| 🧠 **AI Chatbot** | NLP chatbot with Gemini API and Flask backend | `Python` `NLP` `Flask` |
-| 🪑 **IoT Smart Chair** | Smart posture and sitting-time monitoring system | `ESP32` `Python` `IoT` `Data Analytics` |
-
-<div align="center">
-
-📂 **Full analytics portfolio →** [**Data-Analytics-Projects**](https://github.com/OmkarYelsange/Data-Analytics-Projects)
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- 🥇 **Best Innovation Award — DIPEX 2025**
-- 📄 Research work on **IoT Smart Chair Kit**
+- 🏆 **Best Innovation Award — DIPEX 2025**
+- 📄 Research work on the **IoT Smart Chair Kit**
 - 🎓 **B.E. Robotics & Automation Engineering** — D.Y. Patil College of Engineering, Pune
-- 📊 **Deloitte Data Analytics Virtual Internship** — Forage
-- 🧠 **IBM Prompt Engineering Certification**
-- 💼 Experience across **Data Analytics, Project Management and Full-Stack Development**
-- 🏭 Hands-on exposure to **industrial data and operational analytics**
+- 🧠 Prompt-engineering / Generative-AI focused learning
+- 📊 Hands-on experience across **Data Analytics, Operations, Project Management and Full-Stack Development**
 
----
+### `omkar@github ~ $ tail -f learning.log`
 
-## 🔭 Currently Exploring
-
-```python
-current_focus = {
-    "data": ["Advanced SQL", "Data Analysis", "Power BI", "Tableau"],
-    "data_engineering": ["Databricks", "PySpark", "ETL Pipelines", "Lakehouse Architecture", "AWS"],
-    "ai_ml": ["Machine Learning", "NLP", "Generative AI"],
-    "building": ["Data Analytics Projects", "Data Engineering Pipelines", "AI-powered Applications"],
-    "open_to": ["Data Analyst", "Data Engineer", "Business Intelligence", "AI/ML"],
-    "location": "Pune, India",
-}
+```text
+Advanced SQL             [██████████████████░░]
+Data Engineering         [████████████████░░░░]
+Databricks / PySpark     [███████████████░░░░░]
+AWS Data Services        [██████████████░░░░░░]
+Machine Learning         [████████████░░░░░░░░]
+Generative AI            [██████████████░░░░░░]
 ```
 
----
+### `omkar@github ~ $ ./connect.sh`
 
-## 📈 GitHub Stats
+> Data drives decisions. I turn data into insights.
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
+📍 Pune, Maharashtra, India  
+🌐 Portfolio: https://omkary.vercel.app/  
+💼 LinkedIn: https://www.linkedin.com/in/omkar-yelsange/
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://omkaryelsange.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/omkar-yelsange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/OmkarYelsange"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
-
-**`Data drives decisions. I turn data into insights.`**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" alt="footer" />
-
-</div>
+<sub>
+Contribution art is generated in this repository from GitHub’s public contribution calendar.
+The GitHub Action refreshes the heatmap and stats automatically.
+</sub>
