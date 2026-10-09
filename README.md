@@ -1,175 +1,127 @@
 <div align="center">
 
-<img src="./assets/contrib-heatmap.svg" width="860" alt="GitHub contribution heatmap" />
+<h3><code>omkar@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" />
 
 <br><br>
 
+<h3><code>omkar@github ~ $ whoami</code></h3>
+
 <table>
 <tr>
-<td valign="top">
-<img src="./PP.png" width="370" alt="Omkar Yelsange ASCII portrait" />
-</td>
-
-<td valign="top">
-<img src="./assets/info-card.svg" width="490" alt="Omkar Yelsange information card" />
-</td>
+<td valign="top"><img src="./omkar-ascii.svg" width="420" alt="Omkar Yelsange — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Omkar Yelsange GitHub contribution statistics — refreshed daily" /></td>
 </tr>
 </table>
 
-<br>
+<br><br>
+
+<h3><code>omkar@github ~ $ ./links.sh</code></h3>
+
+<p><b>Data Analyst · Aspiring Data Engineer · AI/ML Enthusiast</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-omkary.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://omkary.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
+[![Instagram](https://img.shields.io/badge/Instagram-omkar._2_0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omkar._2_0/)
+[![X](https://img.shields.io/badge/X-@Omkar_Yelsange-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Omkar_Yelsange)
+[![GitHub](https://img.shields.io/badge/GitHub-OmkarYelsange-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmkarYelsange)
 
 </div>
 
-### 👋 About Me
+---
 
-I'm **Omkar Yelsange**, a Data Analyst & Data Engineering enthusiast with a B.E. in Robotics & Automation Engineering.
+## `omkar@github ~ $ cat profile.txt`
 
-I enjoy working across the complete data lifecycle:
+I’m **Omkar Yelsange**, a **Data Analyst** focused on SQL, Python, Power BI, data engineering, and applied AI/ML.
 
-`Raw Data → Cleaning → SQL/Python → ETL → Analysis → Visualization → Business Insight`
+I enjoy taking messy operational data through the complete lifecycle:
 
-My experience combines **data analytics, manufacturing data, SQL, Python, Power BI, cloud data platforms and machine-learning applications**.
+`Raw Data` → `Cleaning` → `SQL / Python` → `ETL` → `Analysis` → `Visualization` → `Business Insight`
 
-I particularly enjoy converting raw operational data into structured information, dashboards and actionable insights.
+Currently, I work with data and operations while building toward roles in **Data Engineering, Business Intelligence, and AI/ML**.
 
-### 🛠️ Tech Stack
+### `omkar@github ~ $ ./focus.sh`
+
+- 📊 Data Analytics & Business Intelligence
+- 🏗️ Data Engineering & ETL
+- ☁️ AWS & Databricks Lakehouse
+- 🤖 Machine Learning, NLP & Generative AI
+- 💻 Python, SQL & modern software development
+
+### `omkar@github ~ $ ./stack.sh`
 
 **Languages & Analytics**
 
-`Python` `SQL` `C++` `R`
-
-**Data & Databases**
-
-`MySQL` `PostgreSQL` `MongoDB` `Pandas` `NumPy`
+`Python` `SQL` `C++` `JavaScript` `Pandas` `NumPy`
 
 **BI & Visualization**
 
-`Power BI` `Tableau` `Microsoft Excel` `Matplotlib` `Seaborn`
+`Power BI` `Tableau` `Excel` `Matplotlib`
 
 **Data Engineering & Cloud**
 
-`Databricks` `PySpark` `AWS S3` `AWS Glue` `AWS Athena` `Lakehouse` `ETL`
+`Databricks` `PySpark` `AWS S3` `Athena` `Glue` `ETL` `Lakehouse`
+
+**Databases**
+
+`PostgreSQL` `MySQL` `MongoDB` `Firebase`
 
 **AI / ML**
 
-`Scikit-learn` `Machine Learning` `NLP` `Generative AI` `Google Gemini API`
+`Machine Learning` `NLP` `Generative AI` `Gemini API`
 
 **Development**
 
-`React.js` `Node.js` `Express.js` `Flask` `REST APIs` `Firebase`
+`React.js` `Node.js` `Express.js` `REST APIs` `Firebase Auth`
 
 **Tools**
 
-`Git` `GitHub` `VS Code` `Postman` `Jupyter`
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify`
 
----
+### `omkar@github ~ $ ls projects/`
 
-<div align="center">
+| Project | Description | Stack |
+|---|---|---|
+| 🚖 **GoodCabs Data Engineering** | End-to-end transportation pipeline using Bronze / Silver / Gold architecture | `Databricks` `PySpark` `AWS S3` `SQL` |
+| 🚕 **OLA Ride Analytics** | Booking, revenue, cancellation and operational KPI analysis | `SQL` `Power BI` `Excel` |
+| ⚡ **Zepto Analytics** | Product, pricing, discount, inventory and e-commerce analysis | `SQL` `PostgreSQL` `Power BI` |
+| 🏠 **Airbnb EDA** | Exploratory analysis of 20K+ accommodation listings | `Python` `Pandas` `NumPy` `Matplotlib` |
+| 🤖 **AI Chatbot** | NLP chatbot with Flask backend and Gemini API | `Python` `NLP` `Flask` |
+| 🏭 **SAMS** | Sensor-driven machine / abrasive monitoring and predictive-maintenance oriented analytics | `Python` `ML` `IoT` |
+| 🪑 **IoT Smart Chair** | Posture and sitting-time monitoring with a custom analytics dashboard | `ESP32` `Python` `IoT` |
+| 💻 **Mini Chat App** | Real-time browser chat application | `Node.js` `Express` `Socket.io` `Firebase` |
 
-</div>
+### `omkar@github ~ $ cat highlights.txt`
 
-### 🚀 Featured Projects
+- 🏆 **Best Innovation Award — DIPEX 2025**
+- 📄 Research work on the **IoT Smart Chair Kit**
+- 🎓 **B.E. Robotics & Automation Engineering** — D.Y. Patil College of Engineering, Pune
+- 🧠 Prompt-engineering / Generative-AI focused learning
+- 📊 Hands-on experience across **Data Analytics, Operations, Project Management and Full-Stack Development**
 
-| Project                             | Description                                                            | Technologies                            |
-| ----------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- |
-| 🏭 **GoodCabs Data Engineering**    | End-to-end transportation data pipeline using Medallion architecture   | `Databricks` `PySpark` `AWS S3` `SQL`   |
-| 🏭 **Machine Monitoring Analytics** | Manufacturing and machine-performance analytics using operational data | `SQL` `Power BI` `Excel`                |
-| 🚕 **Ola Data Analytics**           | Ride-booking analysis covering operational and business KPIs           | `SQL` `Excel` `Power BI`                |
-| ⚡ **Zepto SQL Analytics**          | E-commerce product, pricing, discount and inventory analysis           | `SQL` `PostgreSQL`                      |
-| 🛒 **Blinkit Grocery Analytics**    | Retail KPI analysis and interactive dashboard development              | `SQL` `Power BI` `Excel`                |
-| 🏠 **Airbnb EDA**                   | Exploratory analysis of 20K+ accommodation listings                    | `Python` `Pandas` `NumPy` `Matplotlib`  |
-| 🤖 **SAMS**                         | IoT + ML based predictive maintenance system                           | `Python` `ML` `IoT`                     |
-| 🧠 **AI Chatbot**                   | NLP chatbot with Gemini API and Flask backend                          | `Python` `NLP` `Flask`                  |
-| 🪑 **IoT Smart Chair**              | Smart posture and sitting-time monitoring system                       | `ESP32` `Python` `IoT` `Data Analytics` |
+### `omkar@github ~ $ tail -f learning.log`
 
-My data analytics portfolio is available in **[Data-Analytics-Projects](https://github.com/OmkarYelsange/Data-Analytics-Projects)**.
-
----
-
-<div align="center">
-
-</div>
-
-### 🏆 Highlights
-
-- 🥇 **Best Innovation Award — DIPEX 2025**
-- 📄 Research work on **IoT Smart Chair Kit**
-- 🎓 **B.E. Robotics & Automation Engineering — D.Y. Patil College of Engineering, Pune**
-- 📊 **Deloitte Data Analytics Virtual Internship — Forage**
-- 🎓 **IBM Prompt Engineering Certification**
-- 💼 Experience across **Data Analytics, Project Management and Full-Stack Development**
-- 🏭 Hands-on exposure to **industrial/manufacturing data and operational analytics**
-
----
-
-<div align="center">
-
-</div>
-
-### 🤖 Currently Exploring
-
-```python
-current_focus = {
-    "data": [
-        "Advanced SQL",
-        "Data Analysis",
-        "Power BI",
-        "Tableau"
-    ],
-
-    "data_engineering": [
-        "Databricks",
-        "PySpark",
-        "ETL Pipelines",
-        "Lakehouse Architecture",
-        "AWS"
-    ],
-
-    "ai_ml": [
-        "Machine Learning",
-        "NLP",
-        "Generative AI"
-    ],
-
-    "building": [
-        "Data Analytics Projects",
-        "Data Engineering Pipelines",
-        "AI-powered Applications"
-    ],
-
-    "open_to": [
-        "Data Analyst",
-        "Data Engineer",
-        "Business Intelligence",
-        "AI/ML"
-    ],
-
-    "location": "Pune, India"
-}
+```text
+Advanced SQL             [██████████████████░░]
+Data Engineering         [████████████████░░░░]
+Databricks / PySpark     [███████████████░░░░░]
+AWS Data Services        [██████████████░░░░░░]
+Machine Learning         [████████████░░░░░░░░]
+Generative AI            [██████████████░░░░░░]
 ```
 
+### `omkar@github ~ $ ./connect.sh`
+
+> Data drives decisions. I turn data into insights.
+
+📍 Pune, Maharashtra, India  
+🌐 Portfolio: https://omkary.vercel.app/  
+💼 LinkedIn: https://www.linkedin.com/in/omkar-yelsange/
+
 ---
 
-<div align="center">
-
-<h3><code>Lets Connect</code></h3>
-
-<p>
-<a href="https://omkaryelsange.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/omkar-yelsange">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/OmkarYelsange">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-<br>
-
-<code>Data drives decisions. I turn data into insights.</code>
-
-</div>
+<sub>
+Contribution art is generated in this repository from GitHub’s public contribution calendar.
+The GitHub Action refreshes the heatmap and stats automatically.
+</sub>

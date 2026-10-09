@@ -1,588 +1,147 @@
-from pathlib import Path
-from datetime import date, timedelta
+#!/usr/bin/env python3
+"""Fetch public GitHub contribution data into data/contributions.json."""
 
+from __future__ import annotations
+
+import datetime as dt
 import json
 import os
 import re
+import sys
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
-
-# ============================================================
-# CONFIGURATION
-# ============================================================
-
-USERNAME = os.getenv(
-    "GITHUB_USERNAME",
-    "OmkarYelsange",
-)
-
-CONTRIBUTIONS_URL = (
-    f"https://github.com/users/{USERNAME}/contributions"
-)
-
-ROOT_DIR = Path(__file__).resolve().parent.parent
-
-OUTPUT_FILE = (
-    ROOT_DIR
-    / "data"
-    / "contributions.json"
-)
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "data" / "contributions.json"
+USERNAME = os.environ.get("GH_PROFILE_USER", "OmkarYelsange")
 
 
-# ============================================================
-# FETCH GITHUB CONTRIBUTION PAGE
-# ============================================================
+def level_for(count: int) -> int:
+    if count <= 0:
+        return 0
+    if count <= 3:
+        return 1
+    if count <= 8:
+        return 2
+    if count <= 15:
+        return 3
+    return 4
 
-def fetch_page():
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 "
-            "(Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 "
-            "(KHTML, like Gecko) "
-            "Chrome/153.0 Safari/537.36"
-        ),
-        "Accept": (
-            "text/html,"
-            "application/xhtml+xml,"
-            "application/xml;q=0.9,"
-            "image/avif,"
-            "image/webp,"
-            "*/*;q=0.8"
-        ),
-        "Accept-Language": "en-US,en;q=0.9",
-        "Referer": f"https://github.com/{USERNAME}",
-    }
 
+def fetch_days() -> list[dict]:
+    url = f"https://github.com/users/{USERNAME}/contributions"
     response = requests.get(
-        CONTRIBUTIONS_URL,
-        headers=headers,
+        url,
+        headers={"User-Agent": "OmkarYelsange-github-profile/1.0"},
         timeout=30,
     )
-
     response.raise_for_status()
 
-    return response.text
-
-
-# ============================================================
-# EXTRACT CONTRIBUTION COUNT FROM TOOLTIP
-# ============================================================
-
-def extract_count_from_tooltip(
-    soup,
-    cell_id,
-):
-    """
-    GitHub stores the exact contribution count in a
-    <tool-tip> element associated with the contribution
-    cell's id.
-    """
-
-    if not cell_id:
-        return 0
-
-    tooltip = soup.find(
-        "tool-tip",
-        attrs={
-            "for": cell_id
-        },
-    )
-
-    if tooltip:
-        tooltip_text = tooltip.get_text(
-            " ",
-            strip=True,
-        )
-
-        match = re.search(
-            r"([\d,]+)\s+contributions?",
-            tooltip_text,
-            re.IGNORECASE,
-        )
-
-        if match:
-            return int(
-                match.group(1).replace(",", "")
-            )
-
-    return 0
-
-
-# ============================================================
-# FALLBACK COUNT EXTRACTION
-# ============================================================
-
-def extract_count_from_cell(cell):
-    """
-    Fallback for GitHub markup variations.
-
-    Some versions of the contribution calendar expose
-    the count through title/aria-label attributes.
-    """
-
-    attributes_to_check = [
-        "aria-label",
-        "title",
-    ]
-
-    for attribute in attributes_to_check:
-
-        value = cell.get(
-            attribute,
-            "",
-        )
-
-        if not value:
-            continue
-
-        match = re.search(
-            r"([\d,]+)\s+contributions?",
-            value,
-            re.IGNORECASE,
-        )
-
-        if match:
-            return int(
-                match.group(1).replace(",", "")
-            )
-
-    return 0
-
-
-# ============================================================
-# PARSE CONTRIBUTION CELLS
-# ============================================================
-
-def parse_contributions(html_content):
-
-    soup = BeautifulSoup(
-        html_content,
-        "html.parser",
-    )
+    soup = BeautifulSoup(response.text, "html.parser")
+    cells = soup.select("td.ContributionCalendar-day")
+    if not cells:
+        raise RuntimeError("GitHub contribution cells were not found.")
 
     days = []
-
-    # --------------------------------------------------------
-    # Find contribution calendar cells
-    # --------------------------------------------------------
-
-    cells = soup.select(
-        "td.ContributionCalendar-day[data-date]"
-    )
-
-    # Fallback selector
-    if not cells:
-        cells = soup.select(
-            "td[data-date][data-level]"
-        )
-
-    if not cells:
-        raise RuntimeError(
-            "GitHub contribution cells were not found. "
-            "GitHub may have changed its page structure."
-        )
-
-    # --------------------------------------------------------
-    # Parse each day
-    # --------------------------------------------------------
-
     for cell in cells:
-
-        date_value = cell.get(
-            "data-date"
-        )
-
-        level_value = cell.get(
-            "data-level",
-            "0",
-        )
-
-        if not date_value:
+        date_text = cell.get("data-date")
+        if not date_text:
             continue
 
-        # ----------------------------------------------------
-        # Parse contribution level
-        # ----------------------------------------------------
+        tooltip_id = cell.get("id")
+        tooltip = soup.find("tool-tip", attrs={"for": tooltip_id}) if tooltip_id else None
+        message = tooltip.get_text(" ", strip=True) if tooltip else ""
 
-        try:
-            level = int(
-                level_value
-            )
-        except (
-            ValueError,
-            TypeError,
-        ):
-            level = 0
+        if re.search(r"no contributions", message, re.I):
+            count = 0
+        else:
+            match = re.search(r"(\d[\d,]*)", message)
+            count = int(match.group(1).replace(",", "")) if match else 0
 
-        # ----------------------------------------------------
-        # Parse exact contribution count
-        # ----------------------------------------------------
+        days.append({"date": date_text, "count": count, "level": level_for(count)})
 
-        cell_id = cell.get(
-            "id"
-        )
-
-        count = extract_count_from_tooltip(
-            soup,
-            cell_id,
-        )
-
-        # Fallback if tooltip wasn't found
-        if count == 0:
-            count = extract_count_from_cell(
-                cell
-            )
-
-        # ----------------------------------------------------
-        # Store day
-        # ----------------------------------------------------
-
-        days.append(
-            {
-                "date": date_value,
-                "count": count,
-                "level": level,
-            }
-        )
-
-    # --------------------------------------------------------
-    # Remove duplicate dates
-    # --------------------------------------------------------
-
-    unique_days = {}
-
-    for day in days:
-        unique_days[
-            day["date"]
-        ] = day
-
-    days = list(
-        unique_days.values()
-    )
-
-    # --------------------------------------------------------
-    # Sort chronologically
-    # --------------------------------------------------------
-
-    days.sort(
-        key=lambda item: item["date"]
-    )
-
+    days.sort(key=lambda item: item["date"])
+    if not days:
+        raise RuntimeError("No contribution days were parsed.")
     return days
 
 
-# ============================================================
-# STREAK CALCULATIONS
-# ============================================================
+def current_streak(days: list[dict]) -> tuple[int, str | None, str | None]:
+    index = len(days) - 1
+    if index >= 0 and days[index]["count"] == 0:
+        index -= 1
 
-def calculate_streaks(days):
+    length = 0
+    end_index = index
+    while index >= 0 and days[index]["count"] > 0:
+        length += 1
+        index -= 1
 
-    if not days:
-        return 0, 0
+    if length == 0:
+        return 0, None, None
+    return length, days[index + 1]["date"], days[end_index]["date"]
 
-    # --------------------------------------------------------
-    # Get all dates with at least one contribution
-    # --------------------------------------------------------
 
-    contribution_dates = {
-        date.fromisoformat(day["date"])
-        for day in days
-        if day["count"] > 0
-    }
+def longest_streak(days: list[dict]) -> tuple[int, str | None, str | None]:
+    best = run = 0
+    best_start = best_end = None
+    run_start = None
 
-    if not contribution_dates:
-        return 0, 0
-
-    # --------------------------------------------------------
-    # Calculate longest streak
-    # --------------------------------------------------------
-
-    parsed_dates = sorted(
-        contribution_dates
-    )
-
-    longest = 1
-    current = 1
-
-    for index in range(
-        1,
-        len(parsed_dates),
-    ):
-
-        difference = (
-            parsed_dates[index]
-            - parsed_dates[index - 1]
-        ).days
-
-        if difference == 1:
-
-            current += 1
-
-            longest = max(
-                longest,
-                current,
-            )
-
+    for i, day in enumerate(days):
+        if day["count"] > 0:
+            if run == 0:
+                run_start = i
+            run += 1
+            if run > best:
+                best = run
+                best_start = days[run_start]["date"]
+                best_end = day["date"]
         else:
-            current = 1
+            run = 0
+            run_start = None
 
-    # --------------------------------------------------------
-    # Calculate current streak
-    #
-    # IMPORTANT:
-    # Use the latest date actually returned by GitHub's
-    # contribution calendar instead of relying on the
-    # computer's local date.
-    # --------------------------------------------------------
-
-    latest_calendar_date = max(
-        date.fromisoformat(day["date"])
-        for day in days
-    )
-
-    # If the latest calendar date has no contribution,
-    # there is no active streak ending on that date.
-    if latest_calendar_date not in contribution_dates:
-        return 0, longest
-
-    current_streak = 0
-    streak_date = latest_calendar_date
-
-    while streak_date in contribution_dates:
-
-        current_streak += 1
-
-        streak_date -= timedelta(
-            days=1
-        )
-
-    return (
-        current_streak,
-        longest,
-    )
+    return best, best_start, best_end
 
 
-# ============================================================
-# BEST DAY
-# ============================================================
+def build_snapshot(days: list[dict]) -> dict:
+    total = sum(d["count"] for d in days)
+    active = sum(1 for d in days if d["count"] > 0)
+    best_day = max(days, key=lambda d: d["count"])
+    cur_len, cur_start, cur_end = current_streak(days)
+    long_len, long_start, long_end = longest_streak(days)
 
-def calculate_best_day(days):
-
-    if not days:
-        return {}
-
-    best = max(
-        days,
-        key=lambda item: item["count"],
-    )
-
-    if best["count"] <= 0:
-        return {}
+    monthly = {}
+    for day in days:
+        key = day["date"][:7]
+        monthly[key] = monthly.get(key, 0) + day["count"]
 
     return {
-        "date": best["date"],
-        "count": best["count"],
-    }
-
-
-# ============================================================
-# MONTHLY TOTALS
-# ============================================================
-
-def calculate_monthly_totals(days):
-
-    totals = {}
-
-    for day in days:
-
-        month = day[
-            "date"
-        ][:7]
-
-        totals.setdefault(
-            month,
-            0,
-        )
-
-        totals[month] += day[
-            "count"
-        ]
-
-    return totals
-
-
-# ============================================================
-# TOTAL CONTRIBUTIONS
-# ============================================================
-
-def calculate_total(days):
-
-    return sum(
-        day["count"]
-        for day in days
-    )
-
-
-# ============================================================
-# MAIN
-# ============================================================
-
-def main():
-
-    print(
-        f"Fetching contributions for "
-        f"{USERNAME}..."
-    )
-
-    print(
-        f"Source: {CONTRIBUTIONS_URL}"
-    )
-
-    # --------------------------------------------------------
-    # Fetch HTML
-    # --------------------------------------------------------
-
-    html_content = fetch_page()
-
-    print(
-        f"Downloaded {len(html_content):,} "
-        f"characters from GitHub."
-    )
-
-    # --------------------------------------------------------
-    # Parse days
-    # --------------------------------------------------------
-
-    days = parse_contributions(
-        html_content
-    )
-
-    if not days:
-        raise RuntimeError(
-            "No contribution days were found."
-        )
-
-    # --------------------------------------------------------
-    # Calculate statistics
-    # --------------------------------------------------------
-
-    current_streak, longest_streak = (
-        calculate_streaks(days)
-    )
-
-    best_day = calculate_best_day(
-        days
-    )
-
-    monthly_totals = (
-        calculate_monthly_totals(
-            days
-        )
-    )
-
-    total_contributions = (
-        calculate_total(days)
-    )
-
-    active_days = sum(
-        1
-        for day in days
-        if day["count"] > 0
-    )
-
-    # --------------------------------------------------------
-    # Build output
-    # --------------------------------------------------------
-
-    result = {
         "username": USERNAME,
-
-        "total_contributions": (
-            total_contributions
-        ),
-
-        "active_days": active_days,
-
+        "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+        "range": {"start": days[0]["date"], "end": days[-1]["date"]},
+        "total_contributions": total,
+        "active_days": active,
+        "avg_per_active_day": round(total / active, 1) if active else 0,
+        "current_streak": {"length": cur_len, "start": cur_start, "end": cur_end},
+        "longest_streak": {"length": long_len, "start": long_start, "end": long_end},
+        "best_day": {"date": best_day["date"], "count": best_day["count"]},
+        "monthly": [{"month": m, "total": v} for m, v in sorted(monthly.items())],
         "days": days,
-
-        "current_streak": (
-            current_streak
-        ),
-
-        "longest_streak": (
-            longest_streak
-        ),
-
-        "best_day": best_day,
-
-        "monthly_totals": (
-            monthly_totals
-        ),
     }
 
-    # --------------------------------------------------------
-    # Save JSON
-    # --------------------------------------------------------
 
-    OUTPUT_FILE.parent.mkdir(
-        parents=True,
-        exist_ok=True,
-    )
-
-    OUTPUT_FILE.write_text(
-        json.dumps(
-            result,
-            indent=2,
-        ),
-        encoding="utf-8",
-    )
-
-    # --------------------------------------------------------
-    # Print summary
-    # --------------------------------------------------------
-
-    print()
-    print("=" * 55)
-    print("GitHub Contribution Summary")
-    print("=" * 55)
-
-    print(
-        f"Username          : {USERNAME}"
-    )
-
-    print(
-        f"Contribution days  : {len(days)}"
-    )
-
-    print(
-        f"Active days        : {active_days}"
-    )
-
-    print(
-        f"Total contributions: {total_contributions}"
-    )
-
-    print(
-        f"Current streak     : {current_streak}"
-    )
-
-    print(
-        f"Longest streak     : {longest_streak}"
-    )
-
-    print(
-        f"Best day           : {best_day}"
-    )
-
-    print(
-        f"Created            : {OUTPUT_FILE}"
-    )
-
-    print("=" * 55)
+def main() -> None:
+    data = build_snapshot(fetch_days())
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    OUT.write_text(json.dumps(data, indent=2), encoding="utf-8")
+    print(f"wrote {OUT}: {data['total_contributions']:,} contributions")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        raise
