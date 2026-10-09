@@ -1,10 +1,34 @@
+<!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
 <h3><code>omkar@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" />
 
-<br><br>
+<div align="center">
+
+<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260&nameSize=160&titleSize=80&taglineSize=50" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
+
+</div>
+
+
+<!-- <div align="center">
+<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
+</div> -->
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Raw+Data+%E2%86%92+Insights+%E2%86%92+Decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks;Building+Pipelines+%26+Dashboards+that+matter;Open+to+Data+Analyst+%2F+Data+Engineer+roles" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://omkaryelsange.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/omkar-yelsange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/OmkarYelsange"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/📍_Pune,_India-1f6feb?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge" alt="Open to work" />
+
+<br/><br/>
 
 <h3><code>omkar@github ~ $ whoami</code></h3>
 
@@ -55,11 +79,15 @@ Currently, I work with data and operations while building toward roles in **Data
 
 `Python` `SQL` `C++` `JavaScript` `Pandas` `NumPy`
 
-**BI & Visualization**
+| 📊 Analytics | 🏗️ Engineering | 🤖 AI / ML | 🌐 Development |
+| :---: | :---: | :---: | :---: |
+| SQL, Python, Pandas | Databricks, PySpark | ML & NLP | React, Node.js |
+| Power BI, Tableau | AWS S3 · Glue · Athena | Generative AI | REST APIs, Firebase |
+| KPI & dashboard design | ETL & Lakehouse | Gemini API | Full-stack apps |
 
 `Power BI` `Tableau` `Excel` `Matplotlib`
 
-**Data Engineering & Cloud**
+---
 
 `Databricks` `PySpark` `AWS S3` `Athena` `Glue` `ETL` `Lakehouse`
 
@@ -67,15 +95,15 @@ Currently, I work with data and operations while building toward roles in **Data
 
 `PostgreSQL` `MySQL` `MongoDB` `Firebase`
 
-**AI / ML**
+**📊 Languages & Analytics**
 
 `Machine Learning` `NLP` `Generative AI` `Gemini API`
 
-**Development**
+**🗄️ Data & Databases**
 
 `React.js` `Node.js` `Express.js` `REST APIs` `Firebase Auth`
 
-**Tools**
+**📈 BI & Visualization**
 
 `Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify`
 
