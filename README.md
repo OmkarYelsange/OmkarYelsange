@@ -148,8 +148,3 @@ Generative AI            [██████████████░░░░
 💼 LinkedIn: https://www.linkedin.com/in/omkar-yelsange/
 
 ---
-
-<sub>
-Contribution art is generated in this repository from GitHub’s public contribution calendar.
-The GitHub Action refreshes the heatmap and stats automatically.
-</sub>
