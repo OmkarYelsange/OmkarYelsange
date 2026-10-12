@@ -3,7 +3,7 @@
 
 <h3><code>omkar@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" />
+<!-- <img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" /> -->
 
 <!-- <div align="center"> -->
 
