@@ -30,7 +30,7 @@ omkar@github ~ $ ./focus.sh
 - ☁️ Cloud & Lakehouse — Databricks and AWS data services
 - 🤖 AI / ML — machine learning fundamentals, NLP, and Generative AI
 - 🤝 Collaboration — open to learning, building, and contributing to practical projects
-omkar@github ~ $ ./stack.sh
+
 📊 Data Analytics & BI
 
 
@@ -63,7 +63,7 @@ omkar@github ~ $ ./stack.sh
 
 
 
-omkar@github ~ $ ls projects/
+
 Project	What it explores	Tech stack
 🚖 GoodCabs — Transportation Data Engineering	End-to-end transportation data workflow with Bronze, Silver, and Gold layers	Databricks PySpark SQL Delta Lake
 🏭 Machine Monitoring Analytics	Manufacturing performance, machine data, and operational KPIs	SQL Power BI Excel
