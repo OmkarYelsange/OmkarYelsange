@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<h3><code>omkar@github ~ $ ./contributions.sh</code></h3>
+<!-- <h3><code>omkar@github ~ $ ./contributions.sh</code></h3> -->
 
 <!-- <img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" /> -->
 
