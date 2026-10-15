@@ -1,150 +1,103 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!--
+PROFILE README FOR: OmkarYelsange
+Before publishing: replace YOUR_EMAIL@example.com with the email address you want to make public.
+--> 
+
 <div align="center">
 
-<!-- <h3><code>omkar@github ~ $ ./contributions.sh</code></h3> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Omkar+Yelsange+%F0%9F%91%8B;Data+Analyst+%7C+Aspiring+Data+Engineer;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks;Turning+raw+data+into+useful+insights" alt="Typing SVG" />
 
-<!-- <img src="./contrib-heatmap.svg" width="860" alt="Omkar Yelsange GitHub contribution graph — refreshed daily" /> -->
+<p>
+  <a href="https://omkary.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omkar-yelsange/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/OmkarYelsange"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/omkar._2_0/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/Omkar_Yelsange"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-<!-- <div align="center"> -->
-
-<!-- <img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260&nameSize=160&titleSize=80&taglineSize=50" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
-
-</div> -->
-
-
-<!-- <div align="center">
-<img src="https://readmeforge.natrajx.in/api/header?name=OMKAR+YELSANGE&title=DATA+ANALYST+%7C+DATA+ENGINEER&tagline=AI+%7C+ML+%7C+PYTHON+%7C+SQL+%7C+PYSPARK+%7C+DATABRICKS+%7C+AWS&metal=neon-green&style=terminal&animated=true&speed=2&width=1200&height=260" width="100%" alt="Omkar Yelsange - Data Analyst | Data Engineer | AI | ML">
-</div> -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Raw+Data+%E2%86%92+Insights+%E2%86%92+Decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks;Building+Pipelines+%26+Dashboards+that+matter;Open+to+Data+Analyst+%2F+Data+Engineer+roles" alt="Typing animation" />
-</a>
-
-<br/>
-
-<a href="https://omkary.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/omkar-yelsange"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/OmkarYelsange"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/📍_Pune,_India-1f6feb?style=for-the-badge" alt="Location" />
-<img src="https://img.shields.io/badge/Open_to_Work-2ea44f?style=for-the-badge" alt="Open to work" />
-
-<br/><br/>
-
-<h3><code>omkar@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./omkar-ascii.svg" width="420" alt="Omkar Yelsange — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Omkar Yelsange GitHub contribution statistics — refreshed daily" /></td>
-</tr>
-</table>
-
-<br><br>
-
-<h3><code>omkar@github ~ $ ./links.sh</code></h3>
-
-<p><b>Data Analyst · Aspiring Data Engineer · AI/ML Enthusiast</b></p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-omkary.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://omkary.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
-[![Instagram](https://img.shields.io/badge/Instagram-omkar._2_0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omkar._2_0/)
-[![X](https://img.shields.io/badge/X-@Omkar_Yelsange-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Omkar_Yelsange)
-[![GitHub](https://img.shields.io/badge/GitHub-OmkarYelsange-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmkarYelsange)
+<img src="https://img.shields.io/badge/📍_Pune%2C_India-1f6feb?style=flat-square" alt="Location: Pune, India" />
+<img src="https://img.shields.io/badge/Open_to_Opportunities-2ea44f?style=flat-square" alt="Open to opportunities" />
 
 </div>
 
----
+Hey! I'm Omkar Yelsange — a Data Analyst, aspiring Data Engineer, and AI/ML enthusiast based in Pune, India.
+I enjoy turning raw and messy data into reliable datasets, clear dashboards, and actionable business insights. My work and projects span data analytics, business intelligence, ETL pipelines, cloud data platforms, and applied AI.
+Raw Data  →  Cleaning  →  SQL / Python  →  ETL  →  Analysis  →  Dashboards  →  Decisions
+omkar@github ~ $ ./focus.sh
+- 📊 Data Analytics & Business Intelligence — KPI reporting, dashboards, and business insights
+- 🏗️ Data Engineering — ETL workflows, PySpark, and Medallion Architecture
+- ☁️ Cloud & Lakehouse — Databricks and AWS data services
+- 🤖 AI / ML — machine learning fundamentals, NLP, and Generative AI
+- 🤝 Collaboration — open to learning, building, and contributing to practical projects
+omkar@github ~ $ ./stack.sh
+📊 Data Analytics & BI
 
-## `omkar@github ~ $ cat profile.txt`
 
-I’m **Omkar Yelsange**, a **Data Analyst** focused on SQL, Python, Power BI, data engineering, and applied AI/ML.
 
-I enjoy taking messy operational data through the complete lifecycle:
 
-`Raw Data` → `Cleaning` → `SQL / Python` → `ETL` → `Analysis` → `Visualization` → `Business Insight`
 
-Currently, I work with data and operations while building toward roles in **Data Engineering, Business Intelligence, and AI/ML**.
 
-### `omkar@github ~ $ ./focus.sh`
 
-- 📊 Data Analytics & Business Intelligence
-- 🏗️ Data Engineering & ETL
-- ☁️ AWS & Databricks Lakehouse
-- 🤖 Machine Learning, NLP & Generative AI
-- 💻 Python, SQL & modern software development
+🏗️ Data Engineering & Cloud
 
-### `omkar@github ~ $ ./stack.sh`
 
-**Languages & Analytics**
 
-`Python` `SQL` `C++` `JavaScript` `Pandas` `NumPy`
 
-| 📊 Analytics | 🏗️ Engineering | 🤖 AI / ML | 🌐 Development |
-| :---: | :---: | :---: | :---: |
-| SQL, Python, Pandas | Databricks, PySpark | ML & NLP | React, Node.js |
-| Power BI, Tableau | AWS S3 · Glue · Athena | Generative AI | REST APIs, Firebase |
-| KPI & dashboard design | ETL & Lakehouse | Gemini API | Full-stack apps |
 
-`Power BI` `Tableau` `Excel` `Matplotlib`
 
----
 
-`Databricks` `PySpark` `AWS S3` `Athena` `Glue` `ETL` `Lakehouse`
 
-**Databases**
+💻 Programming & Databases
 
-`PostgreSQL` `MySQL` `MongoDB` `Firebase`
 
-**📊 Languages & Analytics**
 
-`Machine Learning` `NLP` `Generative AI` `Gemini API`
 
-**🗄️ Data & Databases**
 
-`React.js` `Node.js` `Express.js` `REST APIs` `Firebase Auth`
 
-**📈 BI & Visualization**
+🤖 AI / ML & Development Tools
 
-`Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify`
 
-### `omkar@github ~ $ ls projects/`
 
-| Project | Description | Stack |
-|---|---|---|
-| 🚖 **GoodCabs Data Engineering** | End-to-end transportation pipeline using Bronze / Silver / Gold architecture | `Databricks` `PySpark` `AWS S3` `SQL` |
-| 🚕 **OLA Ride Analytics** | Booking, revenue, cancellation and operational KPI analysis | `SQL` `Power BI` `Excel` |
-| ⚡ **Zepto Analytics** | Product, pricing, discount, inventory and e-commerce analysis | `SQL` `PostgreSQL` `Power BI` |
-| 🏠 **Airbnb EDA** | Exploratory analysis of 20K+ accommodation listings | `Python` `Pandas` `NumPy` `Matplotlib` |
-| 🤖 **AI Chatbot** | NLP chatbot with Flask backend and Gemini API | `Python` `NLP` `Flask` |
-| 🏭 **SAMS** | Sensor-driven machine / abrasive monitoring and predictive-maintenance oriented analytics | `Python` `ML` `IoT` |
-| 🪑 **IoT Smart Chair** | Posture and sitting-time monitoring with a custom analytics dashboard | `ESP32` `Python` `IoT` |
-| 💻 **Mini Chat App** | Real-time browser chat application | `Node.js` `Express` `Socket.io` `Firebase` |
 
-### `omkar@github ~ $ cat highlights.txt`
 
-- 🏆 **Best Innovation Award — DIPEX 2025**
-- 📄 Research work on the **IoT Smart Chair Kit**
-- 🎓 **B.E. Robotics & Automation Engineering** — D.Y. Patil College of Engineering, Pune
-- 🧠 Prompt-engineering / Generative-AI focused learning
-- 📊 Hands-on experience across **Data Analytics, Operations, Project Management and Full-Stack Development**
 
-### `omkar@github ~ $ tail -f learning.log`
 
-```text
-Advanced SQL             [██████████████████░░]
-Data Engineering         [████████████████░░░░]
-Databricks / PySpark     [███████████████░░░░░]
-AWS Data Services        [██████████████░░░░░░]
-Machine Learning         [████████████░░░░░░░░]
-Generative AI            [██████████████░░░░░░]
-```
+omkar@github ~ $ ls projects/
+Project	What it explores	Tech stack
+🚖 GoodCabs — Transportation Data Engineering	End-to-end transportation data workflow with Bronze, Silver, and Gold layers	Databricks PySpark SQL Delta Lake
+🏭 Machine Monitoring Analytics	Manufacturing performance, machine data, and operational KPIs	SQL Power BI Excel
+🚕 OLA Data Analytics	Ride-booking patterns, operational performance, and analytical reporting	Excel Data Analysis PowerPoint
+🏠 Airbnb Python & EDA	Exploratory analysis of 20,000+ listings, pricing, room types, and correlations	Python Pandas NumPy Matplotlib Seaborn
+🛒 Blinkit Grocery Analytics	Grocery and retail metrics, outlet performance, and product categories	SQL Excel Power BI
+⚡ Zepto SQL Analytics	Product pricing, discounts, stock availability, and e-commerce data exploration	SQL Excel
 
-### `omkar@github ~ $ ./connect.sh`
 
-> Data drives decisions. I turn data into insights.
+<p align="center">
+  <a href="https://github.com/OmkarYelsange/Data-Analytics-Projects"><img src="https://img.shields.io/badge/Explore_All_Data_Analytics_Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Data Analytics Projects" /></a>
+  <a href="https://github.com/OmkarYelsange/Databricks-Projects"><img src="https://img.shields.io/badge/Explore_Data_Engineering_Projects-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Explore Databricks Projects" /></a>
+</p>
 
-📍 Pune, Maharashtra, India  
-🌐 Portfolio: https://omkary.vercel.app/  
-💼 LinkedIn: https://www.linkedin.com/in/omkar-yelsange/
+🏆 Highlights
+- 🏅 Best Innovation Award — DIPEX 2025
+- 📄 Research work on the IoT Smart Chair Kit
+- 🎓 B.E. Robotics & Automation Engineering — D.Y. Patil College of Engineering, Pune
+- 📈 Hands-on project experience across analytics, operations, reporting, and data engineering
+🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarYelsange&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+</div>
 
----
+📈 GitHub Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmkarYelsange&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Omkar's GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=OmkarYelsange&theme=tokyonight&hide_border=true" alt="Omkar's GitHub contribution streak" />
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarYelsange&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmkarYelsange&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
+</div>
+
+<!-- Optional: add a custom contribution heatmap or ASCII portrait here once the assets are committed to this profile repository. -->
