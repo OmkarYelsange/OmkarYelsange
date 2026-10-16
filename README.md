@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-omkary.vercel.app-0A66C2?logo=vercel&logoColor=white)](https://omkary.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
 [![GitHub](https://img.shields.io/badge/GitHub-OmkarYelsange-181717?logo=github&logoColor=white)](https://github.com/OmkarYelsange)
-[![Email](https://img.shields.io/badge/Email-Add_Professional_Email-EA4335?logo=gmail&logoColor=white)](mailto:omkaryelsange1010@gmail.com)
+[![Email](https://img.shields.io/badge/Email-omkaryelsange1010@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:omkaryelsange1010@gmail.com)
 
 ![Location](https://img.shields.io/badge/Location-Pune%2C_India-blue?logo=googlemaps&logoColor=white)
 ![Open to Opportunities](https://img.shields.io/badge/Open_to-Data_%7C_BI_%7C_Data_Engineering_Roles-2EA043)
