@@ -2,16 +2,14 @@
 
 # Hi, I'm Omkar Yelsange 👋
 
-### Data Analyst | Aspiring Data Engineer | AI/ML Enthusiast
+### Data Analyst | Data Engineer | AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Transforming+Raw+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks;Building+Data+Pipelines+and+Analytical+Dashboards;Exploring+Data+Engineering%2C+Data+Science%2C+and+AI%2FML" alt="Typing animation: data analytics, SQL, Python, Power BI, Databricks, data pipelines, and AI/ML" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omkary.vercel.app-0A66C2?logo=vercel&logoColor=white)](https://omkary.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
 [![GitHub](https://img.shields.io/badge/GitHub-OmkarYelsange-181717?logo=github&logoColor=white)](https://github.com/OmkarYelsange)
-[![Email](https://img.shields.io/badge/Email-Add_Professional_Email-EA4335?logo=gmail&logoColor=white)](mailto:YOUR_PROFESSIONAL_EMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-omkar._2_0-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/omkar._2_0/)
-[![X](https://img.shields.io/badge/X-Omkar_Yelsange-000000?logo=x&logoColor=white)](https://x.com/Omkar_Yelsange)
+[![Email](https://img.shields.io/badge/Email-Add_Professional_Email-EA4335?logo=gmail&logoColor=white)](mailto:omkaryelsange1010@gmail.com)
 
 ![Location](https://img.shields.io/badge/Location-Pune%2C_India-blue?logo=googlemaps&logoColor=white)
 ![Open to Opportunities](https://img.shields.io/badge/Open_to-Data_%7C_BI_%7C_Data_Engineering_Roles-2EA043)
