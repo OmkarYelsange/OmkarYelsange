@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Omkar Yelsange 👋
-### Data Analyst | Data Engineer | AI/ML Enthusiast
+## Data Analyst | Data Engineer | AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Transforming+Raw+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks;Building+Data+Pipelines+and+Analytical+Dashboards;Exploring+Data+Engineering%2C+Data+Science%2C+and+AI%2FML" alt="Typing animation: data analytics, SQL, Python, Power BI, Databricks, data pipelines, and AI/ML" />
 
