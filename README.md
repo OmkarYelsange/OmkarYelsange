@@ -328,7 +328,6 @@ Interested in **data analytics, data engineering, BI, or AI/ML** Let’s connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-omkary.vercel.app-0A66C2?logo=vercel&logoColor=white)](https://omkary.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
 [![GitHub](https://img.shields.io/badge/GitHub-OmkarYelsange-181717?logo=github&logoColor=white)](https://github.com/OmkarYelsange)
-[![Instagram](https://img.shields.io/badge/Instagram-omkar._2_0-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/omkar._2_0/)
 [![X](https://img.shields.io/badge/X-Omkar_Yelsange-000000?logo=x&logoColor=white)](https://x.com/Omkar_Yelsange)
 
 ---
