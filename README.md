@@ -178,7 +178,7 @@ End-to-end transportation data engineering project using a **Medallion Architect
 
 **Tech:** Databricks, PySpark, SQL, AWS S3, Lakehouse Architecture  
 
-**Repository:** ![GoodCabs Data Engineering Project](https://github.com/OmkarYelsange/Databricks-Projects/tree/863e5cae793f0740323024b3d0edfef6f0825634/1.%20Goodcabs%20-%20Transportation)
+**Repository:** [GoodCabs Data Engineering Project](https://github.com/OmkarYelsange/Databricks-Projects/tree/863e5cae793f0740323024b3d0edfef6f0825634/1.%20Goodcabs%20-%20Transportation)
 
 </td>
 <td width="50%" valign="top">
