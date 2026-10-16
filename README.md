@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Omkar Yelsange 👋
-
 ### Data Analyst | Data Engineer | AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Transforming+Raw+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Databricks;Building+Data+Pipelines+and+Analytical+Dashboards;Exploring+Data+Engineering%2C+Data+Science%2C+and+AI%2FML" alt="Typing animation: data analytics, SQL, Python, Power BI, Databricks, data pipelines, and AI/ML" />
@@ -10,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
 [![GitHub](https://img.shields.io/badge/GitHub-OmkarYelsange-181717?logo=github&logoColor=white)](https://github.com/OmkarYelsange)
 [![Email](https://img.shields.io/badge/Email-omkaryelsange1010@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:omkaryelsange1010@gmail.com)
-
 ![Location](https://img.shields.io/badge/Location-Pune%2C_India-blue?logo=googlemaps&logoColor=white)
 
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to%20Opportunities-Data%20%7C%20BI%20%7C%20Data%20Engineering%20Roles-2EA043)
@@ -180,7 +178,7 @@ End-to-end transportation data engineering project using a **Medallion Architect
 
 **Tech:** Databricks, PySpark, SQL, AWS S3, Lakehouse Architecture  
 
-**Repository:** `<!-- Add verified GoodCabs repository URL -->`
+**Repository:** https://github.com/OmkarYelsange/Databricks-Projects/tree/863e5cae793f0740323024b3d0edfef6f0825634/1.%20Goodcabs%20-%20Transportation
 
 </td>
 <td width="50%" valign="top">
