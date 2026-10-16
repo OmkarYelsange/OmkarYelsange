@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-omkaryelsange1010@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:omkaryelsange1010@gmail.com)
 
 ![Location](https://img.shields.io/badge/Location-Pune%2C_India-blue?logo=googlemaps&logoColor=white)
-![Open to Opportunities-2EA043)
+![Open to Opportunities](https://img.shields .io/badge/Open to- Opportunities Data %7C BI %7C Data Engineering_Roles-2EA043)
 
 </div>
 
