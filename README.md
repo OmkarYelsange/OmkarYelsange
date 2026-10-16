@@ -27,68 +27,68 @@ I have worked with operational and analytical data using **Python, SQL, Power BI
 
 My goal is to build a career in **data analytics and data engineering** while developing expertise in data science, database systems, and machine learning.
 
+>Databricks, PySpark, AWS, ETL, Medallion Architecture, and Lakehouse concepts reflect my active learning and hands-on project work; I am continuing to deepen my data engineering expertise.
+
 ---
 
 ## 🎯 Professional Focus Areas
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 📊 Data Analytics
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Business insights and KPI analysis  
-- Python, Pandas, NumPy, Excel  
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Business insights and KPI analysis
+- Python, Pandas, NumPy, Excel
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### ⚙️ Data Engineering
-- ETL and data transformation  
-- Data pipeline fundamentals  
-- Medallion Architecture: Bronze, Silver, Gold  
-- Databricks, PySpark, AWS S3  
+- ETL and data transformation
+- Data pipeline fundamentals
+- Medallion Architecture: Bronze, Silver, Gold
+- Databricks, PySpark, AWS S3
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 📈 Business Intelligence
-- Interactive dashboards  
-- KPI monitoring and reporting  
-- Power BI, Tableau, Excel  
-- Business performance analysis  
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Data Science & ML
-- Exploratory analysis and feature preparation  
-- Machine learning fundamentals  
-- NLP and applied AI  
-- Python and relevant ML libraries  
+- Interactive dashboards
+- KPI monitoring and reporting
+- Power BI, Tableau, Excel
+- Business performance analysis
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
-### 🗄️ SQL Development
-- Complex SQL queries  
-- Joins, CTEs, and subqueries  
-- Window functions and aggregations  
-- Query optimization fundamentals  
+### 🤖 Data Science & ML
+- Exploratory analysis and feature preparation
+- Machine learning fundamentals
+- NLP and applied AI
+- Python and relevant ML libraries
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
+
+### 🗄️ SQL Development
+- Complex SQL queries
+- Joins, CTEs, and subqueries
+- Window functions and aggregations
+- Query optimization fundamentals
+
+</td>
+<td width="33.33%" valign="top">
 
 ### 🧱 Database Management
-- Relational database concepts  
-- Database design and querying  
-- MySQL and PostgreSQL  
-- MongoDB fundamentals  
+- Relational database concepts
+- Database design and querying
+- MySQL and PostgreSQL
+- MongoDB fundamentals
 
 </td>
 </tr>
@@ -96,73 +96,111 @@ My goal is to build a career in **data analytics and data engineering** while de
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### Programming Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Data Analytics & Data Science
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-Data_Analysis-2EA043)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-412991?logo=huggingface&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-8E75B2?logo=openai&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-### Data Engineering & Cloud
+<h3 align="center">📊 Data Analytics & Data Science</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-Data_Analysis-2EA043" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-412991?logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-8E75B2?logo=openai&logoColor=white" />
+</p>
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?logo=amazons3&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-8C4FFF?logo=amazonwebservices&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-8C4FFF?logo=amazonwebservices&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Data_Pipelines-2EA043)
-![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-Bronze_Silver_Gold-FF3621)
-![Lakehouse](https://img.shields.io/badge/Lakehouse-Concepts-FF3621)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### BI & Visualization
+<h3 align="center">⚙️ Data Engineering & Cloud</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Glue-8C4FFF?logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Athena-8C4FFF?logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/ETL-Data_Pipelines-2EA043" />
+<img src="https://img.shields.io/badge/Medallion_Architecture-Bronze_Silver_Gold-FF3621" />
+<img src="https://img.shields.io/badge/Lakehouse-Concepts-FF3621" />
+</p>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-Excel-217346)
-![VLOOKUP](https://img.shields.io/badge/VLOOKUP-Excel-217346)
-![KPI Dashboards](https://img.shields.io/badge/KPI_Dashboards-BI-2EA043)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-Storytelling-2EA043)
+</td>
+<td width="50%" valign="top">
 
-### Databases
+<h3 align="center">📈 BI & Visualization</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pivot_Tables-Excel-217346" />
+<img src="https://img.shields.io/badge/VLOOKUP-Excel-217346" />
+<img src="https://img.shields.io/badge/KPI_Dashboards-BI-2EA043" />
+<img src="https://img.shields.io/badge/Data_Visualization-Storytelling-2EA043" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Firestore-FFCA28?logo=firebase&logoColor=black)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Development & AI Tools
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?logo=firebase&logoColor=black" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-Integration-2EA043)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?logo=google&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-> **Note:** Databricks, PySpark, AWS, ETL, Medallion Architecture, and Lakehouse concepts reflect my active learning and hands-on project work; I am continuing to deepen my data engineering expertise.
+<h3 align="center">🧰 Development & AI Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-Integration-2EA043" />
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?logo=google&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ---
 
@@ -200,7 +238,7 @@ Analyzed more than 100,000 ride-booking records across 19 attributes to investig
 
 Analyzed vendor and purchasing performance to identify supplier trends, purchasing patterns, and performance-related business insights.
 
-**Tech:** Python, SQL, Pandas, MySQL, Jupyter Notebook, Power BI *(include only tools supported by the repository)*  
+**Tech:** Python, SQL, Pandas, MySQL, Jupyter Notebook, Power BI
 
 **Repository:** [Vendor Performance Analysis](https://github.com/OmkarYelsange/Vendor-Performance-Analysis.git)
 
