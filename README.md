@@ -178,7 +178,7 @@ End-to-end transportation data engineering project using a **Medallion Architect
 
 **Tech:** Databricks, PySpark, SQL, AWS S3, Lakehouse Architecture  
 
-**Repository:** https://github.com/OmkarYelsange/Databricks-Projects/tree/863e5cae793f0740323024b3d0edfef6f0825634/1.%20Goodcabs%20-%20Transportation
+**Repository:** ![GoodCabs Data Engineering Project](https://github.com/OmkarYelsange/Databricks-Projects/tree/863e5cae793f0740323024b3d0edfef6f0825634/1.%20Goodcabs%20-%20Transportation)
 
 </td>
 <td width="50%" valign="top">
@@ -189,7 +189,7 @@ Analyzed more than 100,000 ride-booking records across 19 attributes to investig
 
 **Tech:** SQL, Power BI, Excel  
 
-**Repository:** `<!-- Add verified OLA Ride Analytics repository URL -->`
+**Repository:** [OLA Ride Analytics](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/3.%20Ola%20Project)
 
 </td>
 </tr>
@@ -202,7 +202,7 @@ Analyzed vendor and purchasing performance to identify supplier trends, purchasi
 
 **Tech:** Python, SQL, Pandas, MySQL, Jupyter Notebook, Power BI *(include only tools supported by the repository)*  
 
-**Repository:** `<!-- Add verified Vendor Performance Analysis repository URL -->`
+**Repository:** [Vendor Performance Analysis](https://github.com/OmkarYelsange/Vendor-Performance-Analysis.git)
 
 </td>
 <td width="50%" valign="top">
@@ -213,7 +213,7 @@ Analyzed e-commerce product and inventory data, including pricing, discounts, st
 
 **Tech:** SQL, PostgreSQL, Power BI  
 
-**Repository:** `<!-- Add verified Zepto Analytics repository URL -->`
+**Repository:** [Zepto Analytics Dashboard](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/5.%20Zepto%20SQL%20Project)
 
 </td>
 </tr>
@@ -226,18 +226,18 @@ Explored more than 20,000 accommodation listings to identify pricing patterns, r
 
 **Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 
-**Repository:** `<!-- Add verified Airbnb EDA repository URL -->`
+**Repository:** [Airbnb Exploratory Data Analysis](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/2.%20AirBnB%20Python%20%26%20EDA%20Project)
 
 </td>
 <td width="50%" valign="top">
 
-### 📉 M2 Material Data Analysis
+### 📉 Industrial Data Analysis Project
 
 Analyzed material-related and machine-monitoring data to support reporting, KPI monitoring, and operational decision-making.
 
 **Tech:** Excel, SQL, Power BI  
 
-**Repository:** `<!-- Add verified M2 Material Data Analysis repository URL -->`
+**Repository:** [Industrial Data Analysis Project](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/1.%20Machine%20Monitoring%20Project)
 
 </td>
 </tr>
@@ -279,13 +279,13 @@ Analyzed material-related and machine-monitoring data to support reporting, KPI 
   **B.E. in Robotics & Automation Engineering**  
   D. Y. Patil College of Engineering, Akurdi, Pune  
   Graduation Year: **2026**  
-  CGPA: **8.90 / 10** *(verify against the latest official resume/transcript before publishing)*
+  CGPA: **8.90 / 10** 
 
 ---
 
 ## 🤝 Connect With Me
 
-Interested in **data analytics, data engineering, BI, or AI/ML**? Let’s connect and collaborate on meaningful projects.
+Interested in **data analytics, data engineering, BI, or AI/ML** Let’s connect and collaborate on meaningful projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-omkary.vercel.app-0A66C2?logo=vercel&logoColor=white)](https://omkary.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar_Yelsange-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-yelsange/)
