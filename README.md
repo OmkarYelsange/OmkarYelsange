@@ -106,7 +106,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <td width="50%" valign="top">
 
 <h3 align="center">💻 Programming Languages</h3>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
@@ -119,7 +119,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <td width="50%" valign="top">
 
 <h3 align="center">📊 Data Analytics & Data Science</h3>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
@@ -137,7 +137,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <td width="50%" valign="top">
 
 <h3 align="center">⚙️ Data Engineering & Cloud</h3>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
@@ -154,7 +154,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <td width="50%" valign="top">
 
 <h3 align="center">📈 BI & Visualization</h3>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white" />
@@ -170,7 +170,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <td width="50%" valign="top">
 
 <h3 align="center">🗄️ Databases</h3>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
