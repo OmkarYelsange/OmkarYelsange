@@ -105,7 +105,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="left">💻 Programming Languages</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
@@ -118,7 +118,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Data Analytics & Data Science</h3>
+<h3 align="left">📊 Data Analytics & Data Science</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
@@ -136,7 +136,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">⚙️ Data Engineering & Cloud</h3>
+<h3 align="left">⚙️ Data Engineering & Cloud</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white" />
@@ -153,7 +153,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📈 BI & Visualization</h3>
+<h3 align="left">📈 BI & Visualization</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
@@ -169,7 +169,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="left">🗄️ Databases</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
@@ -180,7 +180,7 @@ My goal is to build a career in **data analytics and data engineering** while de
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🧰 Development & AI Tools</h3>
+<h3 align="left">🧰 Development & AI Tools</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
