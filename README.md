@@ -221,13 +221,13 @@ End-to-end transportation data engineering project using a **Medallion Architect
 </td>
 <td width="50%" valign="top">
 
-### 🚗 OLA Ride Analytics
+### 📉 Industrial Data Analysis Project
 
-Analyzed more than 100,000 ride-booking records across 19 attributes to investigate booking trends, revenue, cancellations, customer behavior, and operational KPIs using SQL and dashboards.
+Analyzed material-related and machine-monitoring data to support reporting, KPI monitoring, and operational decision-making.
 
-**Tech:** SQL, Power BI, Excel  
+**Tech:** Excel, SQL, Power BI  
 
-**Repository:** [OLA Ride Analytics](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/3.%20Ola%20Project)
+**Repository:** [Industrial Data Analysis Project](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/1.%20Machine%20Monitoring%20Project)
 
 </td>
 </tr>
@@ -269,13 +269,13 @@ Explored more than 20,000 accommodation listings to identify pricing patterns, r
 </td>
 <td width="50%" valign="top">
 
-### 📉 Industrial Data Analysis Project
+### 🚗 OLA Ride Analytics
 
-Analyzed material-related and machine-monitoring data to support reporting, KPI monitoring, and operational decision-making.
+Analyzed more than 100,000 ride-booking records across 19 attributes to investigate booking trends, revenue, cancellations, customer behavior, and operational KPIs using SQL and dashboards.
 
-**Tech:** Excel, SQL, Power BI  
+**Tech:** SQL, Power BI, Excel  
 
-**Repository:** [Industrial Data Analysis Project](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/1.%20Machine%20Monitoring%20Project)
+**Repository:** [OLA Ride Analytics](https://github.com/OmkarYelsange/Data-Analytics-Projects/tree/370268ddd2bee842d142a451762199561ec9ebdc/3.%20Ola%20Project)
 
 </td>
 </tr>
